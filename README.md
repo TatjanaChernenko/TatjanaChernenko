@@ -1,4 +1,4 @@
-Unravelling mysteries hidden within datasets, a relentless data detective, transforming chaos into knowledge.
+Unraveling mysteries hidden within datasets, a relentless data detective, transforming chaos into knowledge.
 
 - 👋 Hi, I’m @TatjanaChernenko
 - 👀 I’m interested in Data Science, ML/DL, NLP and .
