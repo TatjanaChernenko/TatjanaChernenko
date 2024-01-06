@@ -37,3 +37,46 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 # Inspiration
 
+## [Microsoft](https://github.com/microsoft)
+- [OptiGuide](https://github.com/microsoft/OptiGuide) - Large Language Models for Supply Chain Optimization
+- [Generative AI lessons](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI
+- [LLMOps Workshop](https://github.com/microsoft/llmops-workshop) - Learn how to build solutions with Large Language Models.
+- [Data Science Lessons](https://github.com/microsoft/Data-Science-For-Beginners)
+- [AI Lessons](https://github.com/microsoft/AI-For-Beginners)
+- [unilm](Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [Old Photo Restoration via Deep Latent Space Translation](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [NNI](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+  
+## [Meta Research](https://github.com/facebookresearch)
+
+- [From Audio to Photoreal Embodiment](https://github.com/facebookresearch/audio2photoreal): Synthesizing Humans in Conversations
+- [Seamless](https://github.com/facebookresearch/seamless_communication): Speech-to-speech translation (S2ST), Speech-to-text translation (S2TT), Text-to-speech translation (T2ST), Text-to-text translation (T2TT), Automatic speech recognition (ASR)
+- [Fairseq(-py)](https://github.com/facebookresearch/fairseq) is a sequence modeling toolkit that allows researchers and developers to train custom models for translation, summarization, language modeling and other text generation tasks.
+- [Faiss](https://github.com/facebookresearch/faiss) is a library for efficient similarity search and clustering of dense vectors.
+- [PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) (PBG) is a distributed system for learning graph embeddings for large graphs, particularly big web interaction graphs with up to billions of entities and trillions of edges.
+- [Llama 2 Fine-tuning](https://github.com/facebookresearch/llama-recipes) - examples to quickly get started with fine-tuning for domain adaptation and how to run inference for the fine-tuned models. For ease of use, the examples use Hugging Face converted versions of the models.
+- [Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library
+- [TorchRecipes](https://github.com/facebookresearch/recipes) - Recipes are a standard, well supported set of blueprints for machine learning engineers to rapidly train models using the latest research techniques without significant engineering overhead.
+- [fastText](https://github.com/facebookresearch/fastText) is a library for efficient learning of word representations and sentence classification.
+- [ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+
+## [NVIDIA](https://github.com/NVIDIA)
+
+- [Deep Learning Examples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
+- [NeMo](https://github.com/NVIDIA/NeMo): a toolkit for conversational AI
+
+## Different
+- [500 AI projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning, Deep learning, Computer vision, NLP Projects with code
+- [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
+- [alennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [NLP state-of-the-art](https://github.com/sebastianruder/NLP-progress) - Tracking Progress in Natural Language Processing
+- [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
+- [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
+- [Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM Neural Network for Time Series Prediction
+- [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) - gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
+- [Lime](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
+- [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - an IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
+- [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
+- [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
+  
