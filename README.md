@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TatjanaChernenko
+- 👀 I’m interested in Data Science, ML/DL, NLP.
+- 📫 How to reach me: tatjana.chernenko.work@gmail.com
