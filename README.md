@@ -66,6 +66,9 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 - [NeMo](https://github.com/NVIDIA/NeMo): a toolkit for conversational AI
 
 ## Different
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - full text in Jupyter Notebooks
+- [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [500 AI projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning, Deep learning, Computer vision, NLP Projects with code
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 - [alennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
@@ -78,5 +81,8 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 - [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - an IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
 - [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [Data Science Resources - learning](https://github.com/datasciencemasters/go) - The open-source curriculum for learning to be a Data Scientist (quite basic, but nice links to books, etc.)
+- [Data Science Resources](https://github.com/academic/awesome-datascience) - An Data Science repository to learn and apply for real world problems.
+- [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
   
