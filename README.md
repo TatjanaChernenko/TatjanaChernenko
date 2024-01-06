@@ -43,7 +43,7 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 - [LLMOps Workshop](https://github.com/microsoft/llmops-workshop) - Learn how to build solutions with Large Language Models.
 - [Data Science Lessons](https://github.com/microsoft/Data-Science-For-Beginners)
 - [AI Lessons](https://github.com/microsoft/AI-For-Beginners)
-- [unilm](Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities. An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [Old Photo Restoration via Deep Latent Space Translation](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [NNI](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
   
