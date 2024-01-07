@@ -8,7 +8,7 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 # My Projects
 
-## Research
+## Research Repositories
 ### NLP / ML
 - 2017/2018 [CHERTOY: Word Sense Induction for better web search result clustering](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve word sense induction systems (WSI) for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
 
