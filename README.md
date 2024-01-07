@@ -8,7 +8,7 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 # My Projects
 
-## Research
+## Research & Playground
 ### NLP / ML
 - 2017/2018 [CHERTOY: Word Sense Induction for better web search result clustering](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve word sense induction systems (WSI) for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
 
@@ -22,9 +22,9 @@ Whitepaper - [link](https://github.com/TatjanaChernenko/image_description_genera
 
 *Key words: natural language generation, encoder-decoder, ML, NLP, data science, feed-forward neural network, LSTMs.*
 
-- 2018 [Text Summarization research: Optimizing LexRank system with ECNU features](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ECNU_features) -  enhancing the LexRank-based text summarization system by incorporating semantic similarity measures from the ECNU system. The LexRank-based text summarization system employs a stochastic graph-based method to compute the relative importance of textual units for extractive multi-document text summarization. This implementation initially utilizes cosine similarity between sentences as a key metric. In this model, a connectivity matrix based on intra-sentence cosine similarity is used as the adjacency matrix of the graph representation of sentences. The objective is to explore the impact of replacing cosine similarity with a combination of features from the ECNU system, known for its semantic similarity measure. This modification aims to improve the summarization effectiveness of the LexRank approach.
+- 2018 [Text Summarization research: Optimizing LexRank system with ECNU features](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu) -  enhancing the LexRank-based text summarization system by incorporating semantic similarity measures from the ECNU system. The LexRank-based text summarization system employs a stochastic graph-based method to compute the relative importance of textual units for extractive multi-document text summarization. This implementation initially utilizes cosine similarity between sentences as a key metric. In this model, a connectivity matrix based on intra-sentence cosine similarity is used as the adjacency matrix of the graph representation of sentences. The objective is to explore the impact of replacing cosine similarity with a combination of features from the ECNU system, known for its semantic similarity measure. This modification aims to improve the summarization effectiveness of the LexRank approach.
 
-Whitepaper - [link]()
+Whitepaper - [link](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu/blob/main)
 
 *Key words: natural language processing, text summarizaton, ML, NLP, data science, LexRank, ECNU, semantic similarity metrics, multi-document text summarization, cosine similarity, connectivity matrix, optimization.*
 
@@ -33,6 +33,12 @@ Whitepaper - [link]()
 Whitepaper - [link](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game/blob/main/Report.pdf)
 
 *Key words: reinforcement learning, q-learning.*
+
+- 2018, [Transfer Learning for Automatic Speech Translation (playground)](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning) - Playground for the Automated Speech Translation (AST) with transfer learning vs. AST trained from scratch; hyperparameters tuning and evaluation.
+
+Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning/blob/main/AST_Transfer_Learning_report.pdf)
+
+*Key words: transfer learning, automated speech translation*
 
 ## EDA (Explorative Data Analysis)
 
