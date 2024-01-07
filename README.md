@@ -28,6 +28,11 @@ Whitepaper - [link]()
 
 *Key words: natural language processing, text summarizaton, ML, NLP, data science, LexRank, ECNU, semantic similarity metrics, multi-document text summarization, cosine similarity, connectivity matrix, optimization.*
 
+- 2019, [Reinforcement Learning agent for Bomberman game](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game) Training an agent for the multi-player game Bomberman using reinforcement learning, deep Q-learning with a dueling network architecture and separate decision and target networks, prioritized experience replay.
+
+Whitepaper - [link](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game/blob/main/Report.pdf)
+
+*Key words: reinforcement learning, q-learning.*
 
 ## EDA (Explorative Data Analysis)
 
