@@ -14,7 +14,7 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 Whitepaper - [link](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/blob/main/Results.pdf)
   
-*Key words: word sense induction, web search results clubstering, ML, NLP, word2vec, sent2vec, NLP, data science, data processing.*
+*Key words: word sense induction, web search results clustering, ML, NLP, word2vec, sent2vec, NLP, data science, data processing.*
 
 - 2018 [Natural Language Generation from structured inputs](https://github.com/TatjanaChernenko/image_description_generation) - This project investigates the generation of descriptions of images focusing on spatial relationships between the objects and sufficient attributes for the objects. Leveraging an encoder-decoder architecture with LSTM cells (the Dong et al. (2017) is taken as basis), the system transforms normalized vector representations of attributes into fixed-length vectors. These vectors serve as initial states for a decoder generating target sentences from sequences in description sentences.
 
