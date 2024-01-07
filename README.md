@@ -8,7 +8,7 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 # My Projects
 
-## Research & Playground
+## Research
 ### NLP / ML
 - 2017/2018 [CHERTOY: Word Sense Induction for better web search result clustering](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve word sense induction systems (WSI) for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
 
@@ -16,7 +16,7 @@ Whitepaper - [link](https://github.com/TatjanaChernenko/word_sense_induction_CHE
   
 *Key words: word sense induction, web search results clustering, ML, NLP, word2vec, sent2vec, NLP, data science, data processing.*
 
-- 2018 [Natural Language Generation from structured inputs](https://github.com/TatjanaChernenko/image_description_generation) - This project investigates the generation of descriptions of images focusing on spatial relationships between the objects and sufficient attributes for the objects. Leveraging an encoder-decoder architecture with LSTM cells (the Dong et al. (2017) is taken as basis), the system transforms normalized vector representations of attributes into fixed-length vectors. These vectors serve as initial states for a decoder generating target sentences from sequences in description sentences.
+- 2018 [Data-to-text: Natural Language Generation from structured inputs](https://github.com/TatjanaChernenko/image_description_generation) - This project investigates the generation of descriptions of images focusing on spatial relationships between the objects and sufficient attributes for the objects. Leveraging an encoder-decoder architecture with LSTM cells (the Dong et al. (2017) is taken as basis), the system transforms normalized vector representations of attributes into fixed-length vectors. These vectors serve as initial states for a decoder generating target sentences from sequences in description sentences.
 
 Whitepaper - [link](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/Paper_NL_generation.pdf)
 
@@ -34,38 +34,35 @@ Whitepaper - [link](https://github.com/TatjanaChernenko/reinforcement_learning_a
 
 *Key words: reinforcement learning, q-learning.*
 
-- 2018, [Transfer Learning for Automatic Speech Translation (playground)](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning) - Playground for the Automated Speech Translation (AST) with transfer learning vs. AST trained from scratch; hyperparameters tuning and evaluation.
+- 2018, [Speech-to-text: Transfer Learning for Automatic Speech Translation (playground)](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning) - Playground for the Automated Speech Translation (AST) with transfer learning vs. AST trained from scratch; hyperparameters tuning and evaluation.
 
 Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning/blob/main/AST_Transfer_Learning_report.pdf)
 
 *Key words: transfer learning, automated speech translation*
 
+- Collection of chatbots, dialogue systems (*coming soon*)
+
+# Playground
+
 ## EDA (Explorative Data Analysis)
+
+(*coming soon*)
 
 ## Sentiment Analysis
 
+(*coming soon*)
+
 ## Various ML tasks
-•	Regression Tasks
 
-•	Classification Tasks
-
-•	Clustering Tasks
-
-•	Reinforcement Learning
-
-•	Transfer Learning
-
-•	Prediction Tasks
+(*coming soon*)
 
 ## Apps with ChatGPT and OpenAI
 
-## Various NLP projects
+(*coming soon*)
 
-## Chatbots
+## NMT
 
-## Data-to-text
-
-## Speech-to-text, NMT
+(*coming soon*)
 
 # Inspiration
 
