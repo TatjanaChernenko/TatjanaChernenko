@@ -10,13 +10,17 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 ## Research
 ### NLP / ML
-- [CHERTOY: Word Sense Induction for better web search result clustering, 2017/2018](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve word sense induction systems (WSI) for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
+- [CHERTOY: Word Sense Induction for better web search result clustering](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve word sense induction systems (WSI) for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
   
 *Key words: word sense induction, web search results clubstering, ML, NLP, word2vec, sent2vec, NLP, data science, data processing.*
+
+2017/2018
 
 - [Natural Language Generation from structured inputs](https://github.com/TatjanaChernenko/image_description_generation) - This project investigates the generation of descriptions of images focusing on spatial relationships between the objects and sufficient attributes for the objects. Leveraging an encoder-decoder architecture with LSTM cells (the Dong et al. (2017) is taken as basis), the system transforms normalized vector representations of attributes into fixed-length vectors. These vectors serve as initial states for a decoder generating target sentences from sequences in description sentences.
 
 *Key words: natural language generation, encoder-decoder, ML, NLP, data science, feed-forward neural network, LSTMs.*
+
+2018
 
 ## EDA (Explorative Data Analysis)
 
