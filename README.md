@@ -11,14 +11,20 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 ## Research
 ### NLP / ML
 - 2017/2018 [CHERTOY: Word Sense Induction for better web search result clustering](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve word sense induction systems (WSI) for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
+
+Whitepaper - [link](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/blob/main/Results.pdf)
   
 *Key words: word sense induction, web search results clubstering, ML, NLP, word2vec, sent2vec, NLP, data science, data processing.*
 
 - 2018 [Natural Language Generation from structured inputs](https://github.com/TatjanaChernenko/image_description_generation) - This project investigates the generation of descriptions of images focusing on spatial relationships between the objects and sufficient attributes for the objects. Leveraging an encoder-decoder architecture with LSTM cells (the Dong et al. (2017) is taken as basis), the system transforms normalized vector representations of attributes into fixed-length vectors. These vectors serve as initial states for a decoder generating target sentences from sequences in description sentences.
 
+Whitepaper - [link](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/Paper_NL_generation.pdf)
+
 *Key words: natural language generation, encoder-decoder, ML, NLP, data science, feed-forward neural network, LSTMs.*
 
 - 2018 [Text Summarization research: Optimizing LexRank system with ECNU features](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ECNU_features) -  enhancing the LexRank-based text summarization system by incorporating semantic similarity measures from the ECNU system. The LexRank-based text summarization system employs a stochastic graph-based method to compute the relative importance of textual units for extractive multi-document text summarization. This implementation initially utilizes cosine similarity between sentences as a key metric. In this model, a connectivity matrix based on intra-sentence cosine similarity is used as the adjacency matrix of the graph representation of sentences. The objective is to explore the impact of replacing cosine similarity with a combination of features from the ECNU system, known for its semantic similarity measure. This modification aims to improve the summarization effectiveness of the LexRank approach.
+
+Whitepaper - [link]()
 
 *Key words: natural language processing, text summarizaton, ML, NLP, data science, LexRank, ECNU, semantic similarity metrics, multi-document text summarization, cosine similarity, connectivity matrix, optimization.*
 
