@@ -18,7 +18,10 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 *Key words: natural language generation, encoder-decoder, ML, NLP, data science, feed-forward neural network, LSTMs.*
 
-- [Text Summarization research: Optimizing LexRank system with ECNU features](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ECNU_features) - 
+- 2018 [Text Summarization research: Optimizing LexRank system with ECNU features](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ECNU_features) -  enhancing the LexRank-based text summarization system by incorporating semantic similarity measures from the ECNU system. The LexRank-based text summarization system employs a stochastic graph-based method to compute the relative importance of textual units for extractive multi-document text summarization. This implementation initially utilizes cosine similarity between sentences as a key metric. In this model, a connectivity matrix based on intra-sentence cosine similarity is used as the adjacency matrix of the graph representation of sentences. The objective is to explore the impact of replacing cosine similarity with a combination of features from the ECNU system, known for its semantic similarity measure. This modification aims to improve the summarization effectiveness of the LexRank approach.
+
+*Key words: natural language processing, text summarizaton, ML, NLP, data science, LexRank, ECNU, semantic similarity metrics, multi-document text summarization, cosine similarity, connectivity matrix, optimization.*
+
 
 ## EDA (Explorative Data Analysis)
 
