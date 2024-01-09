@@ -56,6 +56,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 ## Various ML tasks
 
 - https://github.com/TatjanaChernenko/ml_playground
+- [Regression Task: Predicting Airbnb rental prices in New York](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb). Models used: Linear Regression, Decision Trees, NNs.
 
 (*coming soon*)
 
