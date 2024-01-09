@@ -70,6 +70,15 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 # Inspiration
 
+## [OpenAI](https://github.com/openai)
+- [OpenAI - simple app](https://github.com/openai/openai-quickstart-python) - My note: as text-davinci-003	is deprecated already, pelase change it to	gpt-3.5-turbo-instruct!
+
+- [A collection of custom OpenAI WebApps](https://github.com/MaxineXiong/OpenAI-API-Web-Apps)
+- [OpenAI cookbook](https://github.com/openai/openai-cookbook)
+- [GPT-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [Prompt-engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- 
+
 ## [Microsoft](https://github.com/microsoft)
 - [OptiGuide](https://github.com/microsoft/OptiGuide) - Large Language Models for Supply Chain Optimization
 - [Generative AI lessons](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI
