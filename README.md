@@ -78,13 +78,17 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 # Inspiration
 
 ## [OpenAI](https://github.com/openai)
-- [OpenAI - simple app](https://github.com/openai/openai-quickstart-python) - My note: as text-davinci-003	is deprecated already, pelase change it to	gpt-3.5-turbo-instruct!
-
+- [OpenAI - simple app](https://github.com/openai/openai-quickstart-python) - My note: a model used and several functions are already deprecated; my version above has things updated.
+- [Retrieval-Augmented Generation in Azure using Azure AI search](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
 - [A collection of custom OpenAI WebApps](https://github.com/MaxineXiong/OpenAI-API-Web-Apps)
+- [Real time speech2text](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper
 - [OpenAI cookbook](https://github.com/openai/openai-cookbook)
+- [OpenAI WhatsApp Chatbot](https://github.com/simonsanvil/openai-whatsapp-chatbot)
 - [GPT-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [Prompt-engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- 
+- [PDF search app with OpenAI](https://github.com/alejandro-ao/langchain-ask-pdf) - an AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response.
+- [OpenAI Code Automation](https://github.com/nanowell/OpenAI-GPT-Code-Automation) - Fully coded Apps by GPT-4 and ChatGPT. Power of AI coding automation and new way of developing.
+- [Semantic Search](https://github.com/nomic-ai/semantic-search-app-template) - Tutorial and template for a semantic search app powered by the Atlas Embedding Database, Langchain, OpenAI and FastAPI
 
 ## [Microsoft](https://github.com/microsoft)
 - [OptiGuide](https://github.com/microsoft/OptiGuide) - Large Language Models for Supply Chain Optimization
