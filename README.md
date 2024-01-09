@@ -10,41 +10,43 @@ Unraveling mysteries hidden within datasets, a relentless data detective, transf
 
 ## Research Repositories
 ### NLP / ML
-- 2017/2018 [CHERTOY: Word Sense Induction for better web search result clustering](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve word sense induction systems (WSI) for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
+- 2017/2018 [CHERTOY: Word Sense Induction for better web search result clustering](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/tree/main) - An approach to improve **word sense induction systems (WSI)** for web search result clustering. Exploring the boundaries of vector space models for the WSI Task. CHERTOY system. Authors: Tatjana Chernenko, Utaemon Toyota.
 
 Whitepaper - [link](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system/blob/main/Results.pdf)
   
 *Key words: word sense induction, web search results clustering, ML, NLP, word2vec, sent2vec, NLP, data science, data processing.*
 
-- 2018 [Data-to-text: Natural Language Generation from structured inputs](https://github.com/TatjanaChernenko/image_description_generation) - This project investigates the generation of descriptions of images focusing on spatial relationships between the objects and sufficient attributes for the objects. Leveraging an encoder-decoder architecture with LSTM cells (the Dong et al. (2017) is taken as basis), the system transforms normalized vector representations of attributes into fixed-length vectors. These vectors serve as initial states for a decoder generating target sentences from sequences in description sentences.
+- 2018 [Data-to-text: Natural Language Generation from structured inputs](https://github.com/TatjanaChernenko/image_description_generation) - This project investigates the **generation of descriptions of images** focusing on spatial relationships between the objects and sufficient attributes for the objects. Leveraging an encoder-decoder architecture with LSTM cells (the Dong et al. (2017) is taken as basis), the system transforms normalized vector representations of attributes into fixed-length vectors. These vectors serve as initial states for a decoder generating target sentences from sequences in description sentences.
 
 Whitepaper - [link](https://github.com/TatjanaChernenko/image_description_generation/blob/main/docs/Paper_NL_generation.pdf)
 
 *Key words: natural language generation, encoder-decoder, ML, NLP, data science, feed-forward neural network, LSTMs.*
 
-- 2018 [Text Summarization research: Optimizing LexRank system with ECNU features](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu) -  enhancing the LexRank-based text summarization system by incorporating semantic similarity measures from the ECNU system. The LexRank-based text summarization system employs a stochastic graph-based method to compute the relative importance of textual units for extractive multi-document text summarization. This implementation initially utilizes cosine similarity between sentences as a key metric. In this model, a connectivity matrix based on intra-sentence cosine similarity is used as the adjacency matrix of the graph representation of sentences. The objective is to explore the impact of replacing cosine similarity with a combination of features from the ECNU system, known for its semantic similarity measure. This modification aims to improve the summarization effectiveness of the LexRank approach.
+- 2018 [Text Summarization research: Optimizing LexRank system with ECNU features](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu) -  enhancing the LexRank-based **text summarization** system by incorporating semantic similarity measures from the ECNU system. The LexRank-based text summarization system employs a stochastic graph-based method to compute the relative importance of textual units for extractive multi-document text summarization. This implementation initially utilizes cosine similarity between sentences as a key metric. In this model, a connectivity matrix based on intra-sentence cosine similarity is used as the adjacency matrix of the graph representation of sentences. The objective is to explore the impact of replacing cosine similarity with a combination of features from the ECNU system, known for its semantic similarity measure. This modification aims to improve the summarization effectiveness of the LexRank approach.
 
 Whitepaper - [link](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu/blob/main)
 
 *Key words: natural language processing, text summarizaton, ML, NLP, data science, LexRank, ECNU, semantic similarity metrics, multi-document text summarization, cosine similarity, connectivity matrix, optimization.*
 
-- 2019, [Reinforcement Learning agent for Bomberman game](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game) Training an agent for the multi-player game Bomberman using reinforcement learning, deep Q-learning with a dueling network architecture and separate decision and target networks, prioritized experience replay.
+- 2019, [Reinforcement Learning agent for Bomberman game](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game) Training a **RL agent** for the multi-player game Bomberman using reinforcement learning, deep Q-learning with a dueling network architecture and separate decision and target networks, prioritized experience replay.
 
 Whitepaper - [link](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game/blob/main/Report.pdf)
 
 *Key words: reinforcement learning, q-learning.*
 
-- 2018, [Speech-to-text: Transfer Learning for Automatic Speech Translation (playground)](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning) - Playground for the Automated Speech Translation (AST) with transfer learning vs. AST trained from scratch; hyperparameters tuning and evaluation.
+- 2018, [Speech-to-text: Transfer Learning for Automatic Speech Translation (playground)](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning) - Playground for the **Automated Speech Translation (AST)** with transfer learning vs. AST trained from scratch; hyperparameters tuning and evaluation.
 
 Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning/blob/main/AST_Transfer_Learning_report.pdf)
 
 *Key words: transfer learning, automated speech translation*
 
-- 2018, [Data Augmentation techniques for binary- and multi-label classification](https://github.com/TatjanaChernenko/data_augmentation) - Exploring Data Augmentation techniques (Thesaurus and Backtranslation, a winning Kaggle technique) to expand existing datasets, evaluating on binary- and multi-label classification task (spam/not spam and news articles classification). Important when training data is limited, especially in Machine Learning (ML) or Deep Learning (DL) applications. The primary concept involves altering text while retaining its meaning to enhance the dataset's diversity.
+- 2018, [Data Augmentation techniques for binary- and multi-label classification](https://github.com/TatjanaChernenko/data_augmentation) - Exploring **Data Augmentation techniques** (Thesaurus and Backtranslation, a winning Kaggle technique) to expand existing datasets, evaluating on binary- and multi-label classification task (spam/not spam and news articles classification). Important when training data is limited, especially in Machine Learning (ML) or Deep Learning (DL) applications. The primary concept involves altering text while retaining its meaning to enhance the dataset's diversity.
 
 *Key words: data augmentation, data science, ML, DL, binary and multi-class classification*
 
-- Collection of chatbots, dialogue systems (*coming soon*)
+- Collection of **chatbots, dialogue systems**
+
+(*coming soon*)
 
 # Playground
 
@@ -60,12 +62,12 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 ## Various ML tasks
 
 - https://github.com/TatjanaChernenko/ml_playground
-- [Regression Task: Predicting Airbnb rental prices in New York](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb). Models used: Linear Regression, Decision Trees, NNs.
+- [Regression Task: Predicting Airbnb rental prices in New York](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb) - **Regression task** to predict rental prices in New York, playground. Models used: Linear Regression, Decision Trees, NNs.
 
 (*coming soon*)
 
 ## Apps with ChatGPT and OpenAI
-- [OpenAI basic app](https://github.com/TatjanaChernenko/open_ai_basic_app) - updating the basic OpenAI simple app to generate pet names to correspond to the OpenAI changes in code (January, 2024)
+- [OpenAI basic app](https://github.com/TatjanaChernenko/open_ai_basic_app) - updating the basic **OpenAI simple app** to generate pet names to correspond to the OpenAI changes in code (January, 2024)
 
 (*coming soon*)
 
