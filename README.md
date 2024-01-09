@@ -40,6 +40,10 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 *Key words: transfer learning, automated speech translation*
 
+- 2018, [Data Augmentation techniques for binary- and multi-label classification](https://github.com/TatjanaChernenko/data_augmentation) - Exploring Data Augmentation techniques (Thesaurus and Backtranslation, a winning Kaggle technique) to expand existing datasets, evaluating on binary- and multi-label classification task (spam/not spam and news articles classification). Important when training data is limited, especially in Machine Learning (ML) or Deep Learning (DL) applications. The primary concept involves altering text while retaining its meaning to enhance the dataset's diversity.
+
+*Key words: data augmentation, data science, ML, DL, binary and multi-class classification*
+
 - Collection of chatbots, dialogue systems (*coming soon*)
 
 # Playground
