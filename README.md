@@ -61,6 +61,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 (*coming soon*)
 
 ## Apps with ChatGPT and OpenAI
+- [OpenAI basic app](https://github.com/TatjanaChernenko/open_ai_basic_app) - updating the basic OpenAI simple app to generate pet names to correspond to the OpenAI changes in code (January, 2024)
 
 (*coming soon*)
 
