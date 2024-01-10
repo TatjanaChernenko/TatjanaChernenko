@@ -131,6 +131,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 ### NLP Resources
 
 - [NLP state-of-the-art](https://github.com/sebastianruder/NLP-progress) - Tracking Progress in Natural Language Processing
+- [NMT Tutorial](https://github.com/ymoslem/OpenNMT-Tutorial) - Neural Machine Translation (NMT) tutorial. Data preprocessing, model training, evaluation, and deployment.
 - [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - an IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
 - [alennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
