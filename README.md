@@ -113,7 +113,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 - [fastText](https://github.com/facebookresearch/fastText) is a library for efficient learning of word representations and sentence classification.
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 
-## [AWS samples]()
+## [AWS samples](https://github.com/orgs/aws-samples/repositories?q=&type=all&language=python&sort=)
 
 - [Image Generator with Stable Diffusion on Amazon Bedrock using Streamlit](https://github.com/aws-samples/image-generator-with-stable-diffusion-on-amazon-bedrock-using-streamlit) - A quick demostration to deploy a Stable Diffusion Web application with containers running on Amazon ECS. The model is provided by Amazon Bedrock in this example
 - [Transactional Data Lake using Apache Iceberg with AWS Glue Streaming and MSK Connect (Debezium)](https://github.com/aws-samples/transactional-datalake-using-amazon-msk-serverless-and-apache-iceberg-on-aws-glue) - Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK Serverless and MSK Connect (Debezium)
@@ -122,6 +122,12 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 - [Amazon DocumentDB (with MongoDB compatibility) samples](https://github.com/aws-samples/amazon-documentdb-samples) - Code samples that demonstrate how to use Amazon DocumentDB
 - [Marketing Content Generator](https://github.com/aws-samples/generative-ai-marketing-portal) - CDK Deployment for a sample marketing portal using generative AI for content generation and distribution; Marketing Content Generation and Distribution powered by Generative AI
 - [Amazon SageMaker and AWS Trainium Examples](https://github.com/aws-samples/sagemaker-trainium-examples) - Text classification using Transformers, Pretrain BERT using Wiki Data, Pretrain/Fine tune Llama using Wiki Data.
+- [AWS SageMaker Local Mode](https://github.com/aws-samples/amazon-sagemaker-local-mode) - Amazon SageMaker Local Mode Examples
+- [End-to-end AIoT w/ SageMaker and Greengrass 2.0 on NVIDIA Jetson Nano](https://github.com/aws-samples/aiot-e2e-sagemaker-greengrass-v2-nvidia-jetson) - Hands-on lab from ML model training to model compilation to edge device model deployment on the AWS Cloud. It covers the detailed method of compiling SageMaker Neo for the target device, including cloud instance and edge device, and how to write and deploy Greengrass-v2 components from scratch.
+- [InsuranceLake ETL with CDK Pipeline](https://github.com/aws-samples/aws-insurancelake-etl) - This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake Infrastructure project.
+- [Amazon Forecast](https://aws.amazon.com/forecast/) - for a low-code/no-code fully managed time series AI/ML forecasting service.
+- [AutoGluon](https://github.com/autogluon/autogluon) - if you prefer more control over the forecasting model exploration, training, and evaluation processes.
+- 
 
 ## [NVIDIA](https://github.com/NVIDIA)
 
