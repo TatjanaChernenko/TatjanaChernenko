@@ -113,6 +113,16 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 - [fastText](https://github.com/facebookresearch/fastText) is a library for efficient learning of word representations and sentence classification.
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - a framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 
+## [AWS samples]()
+
+- [Image Generator with Stable Diffusion on Amazon Bedrock using Streamlit](https://github.com/aws-samples/image-generator-with-stable-diffusion-on-amazon-bedrock-using-streamlit) - A quick demostration to deploy a Stable Diffusion Web application with containers running on Amazon ECS. The model is provided by Amazon Bedrock in this example
+- [Transactional Data Lake using Apache Iceberg with AWS Glue Streaming and MSK Connect (Debezium)](https://github.com/aws-samples/transactional-datalake-using-amazon-msk-serverless-and-apache-iceberg-on-aws-glue) - Stream CDC into an Amazon S3 data lake in Apache Iceberg format with AWS Glue Streaming using Amazon MSK Serverless and MSK Connect (Debezium)
+- [MLOps using Amazon SageMaker and GitHub Actions](https://github.com/aws-samples/mlops-sagemaker-github-actions) - MLOps example using Amazon SageMaker Pipeline and GitHub Actions
+- [Near-Real Time Usage Anomaly Detection using OpenSearch](https://github.com/aws-samples/near-realtime-aws-usage-anomaly-detection) - Detect AWS usage anomalies in near-real time using OpenSearch Anomaly Detection and CloudTrail for improved cost management and security
+- [Amazon DocumentDB (with MongoDB compatibility) samples](https://github.com/aws-samples/amazon-documentdb-samples) - Code samples that demonstrate how to use Amazon DocumentDB
+- [Marketing Content Generator](https://github.com/aws-samples/generative-ai-marketing-portal) - CDK Deployment for a sample marketing portal using generative AI for content generation and distribution; Marketing Content Generation and Distribution powered by Generative AI
+- [Amazon SageMaker and AWS Trainium Examples](https://github.com/aws-samples/sagemaker-trainium-examples) - Text classification using Transformers, Pretrain BERT using Wiki Data, Pretrain/Fine tune Llama using Wiki Data.
+
 ## [NVIDIA](https://github.com/NVIDIA)
 
 - [Deep Learning Examples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
@@ -132,6 +142,9 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 - [NLP state-of-the-art](https://github.com/sebastianruder/NLP-progress) - Tracking Progress in Natural Language Processing
 - [NMT Tutorial](https://github.com/ymoslem/OpenNMT-Tutorial) - Neural Machine Translation (NMT) tutorial. Data preprocessing, model training, evaluation, and deployment.
+- [NMT](https://github.com/Prompsit/mutnmt) - An educational tool to train, inspect, evaluate and translate using neural engines
+- [NMT Evaluation framework](https://github.com/Optum/nmt) - A useful framework to evaluate and compare different Machine Translation engines between each other on variety datasets.
+- [FasterNMT](https://github.com/iC-RnD/FasterNMT) - NMT incl. data preprocessing, model training, evaluation, and deployment with great performance.
 - [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - an IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
 - [alennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
