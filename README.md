@@ -127,7 +127,9 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 - [InsuranceLake ETL with CDK Pipeline](https://github.com/aws-samples/aws-insurancelake-etl) - This solution helps you deploy ETL processes and data storage resources to create an Insurance Lake using Amazon S3 buckets for storage, AWS Glue for data transformation, and AWS CDK Pipelines. It is originally based on the AWS blog Deploy data lake ETL jobs using CDK Pipelines, and complements the InsuranceLake Infrastructure project.
 - [Amazon Forecast](https://aws.amazon.com/forecast/) - for a low-code/no-code fully managed time series AI/ML forecasting service.
 - [AutoGluon](https://github.com/autogluon/autogluon) - if you prefer more control over the forecasting model exploration, training, and evaluation processes.
-- 
+- [Retrieval Augmented Generation with Streaming LLM](https://github.com/aws-samples/smartsearch-ai-knowledge-workshop) - leverage LLMs for RAG(Retrieval Augmented Generation).
+- [Build generative AI agents with Amazon Bedrock, Amazon DynamoDB, Amazon Kendra, Amazon Lex, and LangChain](https://github.com/aws-samples/generative-ai-amazon-bedrock-langchain-agent-example)
+  
 
 ## [NVIDIA](https://github.com/NVIDIA)
 
