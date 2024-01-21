@@ -158,6 +158,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
+- [German-NLP Datasets](https://github.com/TatjanaChernenko/German-NLP)
 
 ### ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
