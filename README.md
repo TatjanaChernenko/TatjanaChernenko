@@ -64,6 +64,8 @@ Forks:
 - [Speech-to-Text-WaveNet](https://github.com/TatjanaChernenko/speech-to-text-wavenet): End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow (forked from buriburisuri)
 - [Speech-to-text via Whisper and GPT-4](https://github.com/TatjanaChernenko/speech_to_text_with_whisper_to_GPT) - transcribe dictations to text using whisper, and then fixing the resulting transcriptions into usable text using gpt-4 (forked from MNoichl)
 - [TensorFlow Speech Recognition](https://github.com/TatjanaChernenko/AUDIO-PREOCESSING-AND-SPEECH-CLASSIFICATION) - audio processing and speech classification with Tensorflow - convolution neural networks (forked from harshel)
+- [Watson_STT_CustomModel](https://github.com/TatjanaChernenko/Watson_STT_CustomModel) - a custom speech model using IBM Watson Speech to Text; an old one (approx. 2018)
+- [Simple Speech Recognition with Python](https://github.com/TatjanaChernenko/Speech-Recognition-Speech-To-Text) - very simple setup using SpeechRecognition Python module
 
 (*further projects coming soon*)
 
