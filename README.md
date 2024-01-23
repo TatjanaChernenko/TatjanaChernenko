@@ -124,6 +124,7 @@ Forks:
 - [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [Datasets from Huggingface](https://github.com/huggingface/datasets) - collection of Huggingface datasets
 - [Huggingface - web API for visualizing and exploring of datasets](https://github.com/huggingface/datasets-server) - Lightweight web API for visualizing and exploring all types of datasets - computer vision, speech, text, and tabular - stored on the Hugging Face Hub
+- [Huggingface - analyse datasets](https://github.com/TatjanaChernenko/data-measurements-tool) - EDA from Huggingface (Developing tools to automatically analyze datasets)
   
 ### NLP Resources
 
@@ -181,6 +182,8 @@ Forks:
 - [500 AI projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning, Deep learning, Computer vision, NLP Projects with code
 - [Parameter-Efficient Fine-Tuning from Huggingface](https://github.com/huggingface/peft) -  PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [Huggingface notebooks for various(!) tasks](https://github.com/huggingface/notebooks/tree/main) - Notebooks using the Hugging Face libraries
+- [Huggingface educational resources](https://github.com/huggingface/education-toolkit) - Educational materials
+
 
 ### Prediction
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
