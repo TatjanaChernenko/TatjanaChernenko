@@ -53,11 +53,16 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 ## EDA (Explorative Data Analysis)
 - [Explorative Data Analysis of Aibnb rental prices in New York, 2019](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb) - Jupyter Notebook
 
-(*coming soon*)
+(*further projects coming soon*)
 
 ## Sentiment Analysis
 
 (*coming soon*)
+
+## Voice technologies (speech-to-text, speech-to-speech, text-to-speech)
+- [Speech-to-Text-WaveNet](https://github.com/TatjanaChernenko/speech-to-text-wavenet): End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow (forked from buriburisuri)
+
+(*further projects coming soon*)
 
 ## Various ML tasks
 
