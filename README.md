@@ -68,6 +68,7 @@ Own projects:
 
 Forks:
 - [Recommendation System with TensorFlow, approx.2020](https://github.com/TatjanaChernenko/recommenders) - TensorFlow Recommenders is a library for building recommender system models using TensorFlow. Fork from smellslikeml
+- [TF-Recommenders with Kubernetes](https://github.com/TatjanaChernenko/tf-recommenders-kubernetes) - Example of kubernetes deployment for tf-recommenders model
 
 ## Voice technologies (speech-to-text, speech-to-speech, text-to-speech)
 
@@ -138,6 +139,7 @@ Forks:
 - [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
 - [Dance transfer](https://github.com/TatjanaChernenko/everybody_dance_faster) - acquire pose estimates from a participant, train a pix2pix model, transfer source dance video, and generate a dance gif; Motion transfer booth for a 1 hour everybody dance now video generation using EdgeTPU and Tensorflow 2.0
 - [Video embeddings and similarity](https://github.com/smellslikeml/image-similarity-metric-learning) - Training CNN model to generate image embeddings
+- [Deep Fakes Detection](https://github.com/smellslikeml/Deepfake-detection) - (2019) Repository to detect deepfakes, an opensource project as part of AI Geeks effort.
 
 ### Voice Technologies
 - [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
