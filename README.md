@@ -174,11 +174,13 @@ Forks:
 - [FunASR](https://github.com/alibaba-damo-academy/FunASR) - a Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models; hopes to build a bridge between academic research and industrial applications on speech recognition. By supporting the training & finetuning of the industrial-grade speech recognition model, researchers and developers can conduct research and production of speech recognition models more conveniently, and promote the development of speech recognition ecology
 - [Whisper model](https://github.com/openai/whisper) - OpenAI Whisper
 - [Wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
+- [Distilled variant of Whisper ](https://github.com/TatjanaChernenko/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 
-### ML Resources
+### Different ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [500 AI projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning, Deep learning, Computer vision, NLP Projects with code
 - [Parameter-Efficient Fine-Tuning from Huggingface](https://github.com/huggingface/peft) -  PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
+- [Huggingface notebooks for various(!) tasks](https://github.com/huggingface/notebooks/tree/main) - Notebooks using the Hugging Face libraries
 
 ### Prediction
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
