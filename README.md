@@ -91,6 +91,61 @@ Forks:
 
 # Inspiration
 
+## Different
+
+### Data Science Resources
+
+- [Data Science Resources - learning](https://github.com/datasciencemasters/go) - The open-source curriculum for learning to be a Data Scientist (quite basic, but nice links to books, etc.)
+- [Data Science Resources](https://github.com/academic/awesome-datascience) - An Data Science repository to learn and apply for real world problems.
+- [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - full text in Jupyter Notebooks
+- [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+  
+### NLP Resources
+
+- [NLP state-of-the-art](https://github.com/sebastianruder/NLP-progress) - Tracking Progress in Natural Language Processing
+- [NMT Tutorial](https://github.com/ymoslem/OpenNMT-Tutorial) - Neural Machine Translation (NMT) tutorial. Data preprocessing, model training, evaluation, and deployment.
+- [NMT](https://github.com/Prompsit/mutnmt) - An educational tool to train, inspect, evaluate and translate using neural engines
+- [NMT Evaluation framework](https://github.com/Optum/nmt) - A useful framework to evaluate and compare different Machine Translation engines between each other on variety datasets.
+- [FasterNMT](https://github.com/iC-RnD/FasterNMT) - NMT incl. data preprocessing, model training, evaluation, and deployment with great performance.
+- [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - an IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
+- [alennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
+- [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
+- [German-NLP Datasets](https://github.com/TatjanaChernenko/German-NLP)
+
+### Video Technologies
+- [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
+- [Dance transfer](https://github.com/TatjanaChernenko/everybody_dance_faster) - acquire pose estimates from a participant, train a pix2pix model, transfer source dance video, and generate a dance gif; Motion transfer booth for a 1 hour everybody dance now video generation using EdgeTPU and Tensorflow 2.0
+- 
+
+### Voice Technologies
+- [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
+- [Audio-Speech Tutorial, 2022](https://github.com/TatjanaChernenko/Audio-Speech-Tutorial) - an introduction on the topic of audio and speech processing - from basics to applications (approx. 2022)
+- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
+- [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [Speech-to-text benchmark](https://github.com/TatjanaChernenko/speech-to-text-benchmark) - speech-to-text benchmarking framework
+- [Speech-to-text](https://techtldr.com/transcribing-speech-to-text-with-python-and-openai-api-whisper/) - with Whisper and Python, March 2023
+- [Multilingual Text-to-Speech](https://github.com/TatjanaChernenko/Multilingual_Text_to_Speech) - Tomáš Nekvinda and Ondřej Dušek, One Model, Many Languages: Meta-Learning for Multilingual Text-to-Speech, 2020, Proc. Interspeech 2020
+- [Unified Speech Tokenizer for Speech Language Models](https://github.com/TatjanaChernenko/SpeechTokenizer) - SpeechTokenizer; SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models, Xin Zhang and Dong Zhang and Shimin Li and Yaqian Zhou and Xipeng Qiu, 2023
+- [FunASR](https://github.com/alibaba-damo-academy/FunASR) - a Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models; hopes to build a bridge between academic research and industrial applications on speech recognition. By supporting the training & finetuning of the industrial-grade speech recognition model, researchers and developers can conduct research and production of speech recognition models more conveniently, and promote the development of speech recognition ecology
+- [Whisper model](https://github.com/openai/whisper) - OpenAI Whisper
+
+### ML Resources
+- [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+- [500 AI projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning, Deep learning, Computer vision, NLP Projects with code
+
+### Prediction
+- [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
+- [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
+- [Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM Neural Network for Time Series Prediction
+- [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) - gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
+- [Lime](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
+- [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
+
+# Industrial research
+
 ## [OpenAI](https://github.com/openai)
 - [OpenAI - simple app](https://github.com/openai/openai-quickstart-python) - My note: a model used and several functions are already deprecated; my version above has things updated.
 - [Retrieval-Augmented Generation in Azure using Azure AI search](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
@@ -150,55 +205,4 @@ Forks:
 - [Deep Learning Examples](https://github.com/NVIDIA/DeepLearningExamples) - State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.
 - [NeMo](https://github.com/NVIDIA/NeMo): a toolkit for conversational AI
 
-## Different
 
-### Data Science Resources
-
-- [Data Science Resources - learning](https://github.com/datasciencemasters/go) - The open-source curriculum for learning to be a Data Scientist (quite basic, but nice links to books, etc.)
-- [Data Science Resources](https://github.com/academic/awesome-datascience) - An Data Science repository to learn and apply for real world problems.
-- [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
-- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - full text in Jupyter Notebooks
-- [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-  
-### NLP Resources
-
-- [NLP state-of-the-art](https://github.com/sebastianruder/NLP-progress) - Tracking Progress in Natural Language Processing
-- [NMT Tutorial](https://github.com/ymoslem/OpenNMT-Tutorial) - Neural Machine Translation (NMT) tutorial. Data preprocessing, model training, evaluation, and deployment.
-- [NMT](https://github.com/Prompsit/mutnmt) - An educational tool to train, inspect, evaluate and translate using neural engines
-- [NMT Evaluation framework](https://github.com/Optum/nmt) - A useful framework to evaluate and compare different Machine Translation engines between each other on variety datasets.
-- [FasterNMT](https://github.com/iC-RnD/FasterNMT) - NMT incl. data preprocessing, model training, evaluation, and deployment with great performance.
-- [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - an IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
-- [alennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
-- [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
-- [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
-- [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
-- [German-NLP Datasets](https://github.com/TatjanaChernenko/German-NLP)
-
-### Video Technologies
-- [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
-- [Dance transfer](https://github.com/TatjanaChernenko/everybody_dance_faster) - acquire pose estimates from a participant, train a pix2pix model, transfer source dance video, and generate a dance gif; Motion transfer booth for a 1 hour everybody dance now video generation using EdgeTPU and Tensorflow 2.0
-- 
-
-### Voice Technologies
-- [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
-- [Audio-Speech Tutorial, 2022](https://github.com/TatjanaChernenko/Audio-Speech-Tutorial) - an introduction on the topic of audio and speech processing - from basics to applications (approx. 2022)
-- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
-- [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [Speech-to-text benchmark](https://github.com/TatjanaChernenko/speech-to-text-benchmark) - speech-to-text benchmarking framework
-- [Speech-to-text](https://techtldr.com/transcribing-speech-to-text-with-python-and-openai-api-whisper/) - with Whisper and Python, March 2023
-- [Multilingual Text-to-Speech](https://github.com/TatjanaChernenko/Multilingual_Text_to_Speech) - Tomáš Nekvinda and Ondřej Dušek, One Model, Many Languages: Meta-Learning for Multilingual Text-to-Speech, 2020, Proc. Interspeech 2020
-- [Unified Speech Tokenizer for Speech Language Models](https://github.com/TatjanaChernenko/SpeechTokenizer) - SpeechTokenizer; SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models, Xin Zhang and Dong Zhang and Shimin Li and Yaqian Zhou and Xipeng Qiu, 2023
-- [FunASR](https://github.com/alibaba-damo-academy/FunASR) - a Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models; hopes to build a bridge between academic research and industrial applications on speech recognition. By supporting the training & finetuning of the industrial-grade speech recognition model, researchers and developers can conduct research and production of speech recognition models more conveniently, and promote the development of speech recognition ecology
-- [Whisper model](https://github.com/openai/whisper) - OpenAI Whisper
-
-### ML Resources
-- [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [500 AI projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning, Deep learning, Computer vision, NLP Projects with code
-
-### Prediction
-- [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
-- [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
-- [Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM Neural Network for Time Series Prediction
-- [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) - gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
-- [Lime](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
-- [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
