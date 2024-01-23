@@ -70,6 +70,8 @@ Forks:
 - [Google Sheets to Speech](https://github.com/TatjanaChernenko/sentences_to_speech) - Excel-to-speech, forked from Renoncio: A Python script for generating audio from a list of sentences in Google Sheets.
 - [StreamlitTTS](https://github.com/TatjanaChernenko/StreamlitTTS) - Streamlit app allows you to convert text to audio files using the Microsoft Edge's online text-to-speech service. 
 - [Dolla Llama: Real-Time Co-Pilot for Closing the Deal](https://github.com/TatjanaChernenko/dolla_llama) - forked from smellslikeml; power a real-time speech-to-text agent with retrieval augmented generation based on webscraped customer use-cases, implements speech-to-text (STT) and retrieval-augmented generation (RAG) to assist live sales calls.
+- [Text-to-Speech on AWS](https://github.com/TatjanaChernenko/awstexttospeech) - forked from codets1989; using AWS Lambda and Polly converting text to speech and creating a automated pipeline
+- [Whisper speech-to-text Telegram bot](https://github.com/TatjanaChernenko/Whisper_Speech-To-Text_Telegram_Bot) - forked from loyal-pelmen; Speech-to-Text Telegram bot
 
 (*further projects coming soon*)
 
@@ -131,6 +133,7 @@ Forks:
 - [Unified Speech Tokenizer for Speech Language Models](https://github.com/TatjanaChernenko/SpeechTokenizer) - SpeechTokenizer; SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models, Xin Zhang and Dong Zhang and Shimin Li and Yaqian Zhou and Xipeng Qiu, 2023
 - [FunASR](https://github.com/alibaba-damo-academy/FunASR) - a Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models; hopes to build a bridge between academic research and industrial applications on speech recognition. By supporting the training & finetuning of the industrial-grade speech recognition model, researchers and developers can conduct research and production of speech recognition models more conveniently, and promote the development of speech recognition ecology
 - [Whisper model](https://github.com/openai/whisper) - OpenAI Whisper
+- [Wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 
 ### ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
