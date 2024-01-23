@@ -153,7 +153,7 @@ Forks:
 ### Evaluation Tasks
 - [Evaluate from Huggingface](https://github.com/huggingface/evaluate) - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized. Implementations of dozens of popular metrics: the existing metrics cover a variety of tasks spanning from NLP to Computer Vision
 - [NMT Evaluation framework](https://github.com/Optum/nmt) - A useful framework to evaluate and compare different Machine Translation engines between each other on variety datasets.
- 
+- [FastChat - LLM chatbots evaluation platform](https://github.com/huggingface/FastChat) - FastChat is an open platform for training, serving, and evaluating large language model based chatbots. 
  
 ### Image / Video Technologies
 - [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
