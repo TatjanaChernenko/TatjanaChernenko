@@ -57,9 +57,23 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 ## Sentiment Analysis
 
+(*to be uploaded soon*)
+
 (*coming soon*)
 
+## Recommendation Systems
+Own projects:
+
+(*to be uploaded soon*)
+
+Forks:
+- [Recommendation System with TensorFlow, approx.2020](https://github.com/TatjanaChernenko/recommenders) - TensorFlow Recommenders is a library for building recommender system models using TensorFlow. Fork from smellslikeml
+
 ## Voice technologies (speech-to-text, speech-to-speech, text-to-speech)
+
+Own projects:
+(*to be uploaded soon*)
+
 Forks:
 - [Speech-to-Text-WaveNet](https://github.com/TatjanaChernenko/speech-to-text-wavenet): End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow (forked from buriburisuri)
 - [Speech-to-text via Whisper and GPT-4](https://github.com/TatjanaChernenko/speech_to_text_with_whisper_to_GPT) - transcribe dictations to text using whisper, and then fixing the resulting transcriptions into usable text using gpt-4 (forked from MNoichl)
