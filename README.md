@@ -135,7 +135,12 @@ Forks:
 - [Ressources for redacting personally identifiable information](https://github.com/smellslikeml/awesome-data-redaction) - resources for programmatically redacting personally identifiable information
 - [Simple ML baselines - Jupyter Notebooks](https://github.com/TatjanaChernenko/simple_ML_baselines) - simple ML baselines
 - [Huggingface - Transformer](https://github.com/TatjanaChernenko/transformers) - Huggingface - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX; various tasks
+- [Name Entity Recognition with Electra](https://huggingface.co/dbmdz/electra-large-discriminator-finetuned-conll03-english) - Name Entity Recognition with Electra, Huggingface
+- [Text Generation with GPT-2](https://huggingface.co/gpt2?text=A+long+time+ago%2C+) - Text Generation with GPT-2, Huggingface
+- [Natural Language Inference with RoBERTa](https://huggingface.co/roberta-large-mnli?text=The+dog+was+lost.+Nobody+lost+any+animal) - Natural Language Inference with RoBERTa, Huggingface
+- [Summarization with BART](https://huggingface.co/facebook/bart-large-cnn?text=The+tower+is+324+metres+%281%2C063+ft%29+tall%2C+about+the+same+height+as+an+81-storey+building%2C+and+the+tallest+structure+in+Paris.+Its+base+is+square%2C+measuring+125+metres+%28410+ft%29+on+each+side.+During+its+construction%2C+the+Eiffel+Tower+surpassed+the+Washington+Monument+to+become+the+tallest+man-made+structure+in+the+world%2C+a+title+it+held+for+41+years+until+the+Chrysler+Building+in+New+York+City+was+finished+in+1930.+It+was+the+first+structure+to+reach+a+height+of+300+metres.+Due+to+the+addition+of+a+broadcasting+aerial+at+the+top+of+the+tower+in+1957%2C+it+is+now+taller+than+the+Chrysler+Building+by+5.2+metres+%2817+ft%29.+Excluding+transmitters%2C+the+Eiffel+Tower+is+the+second+tallest+free-standing+structure+in+France+after+the+Millau+Viaduct) - Text Summarization with BART, Huggingface
 - 
+
 
 ### Video Technologies
 - [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
