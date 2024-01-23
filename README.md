@@ -134,6 +134,8 @@ Forks:
 - [Scrapy](https://github.com/smellslikeml/scrapy) - a fast high-level web crawling & scraping framework for Python.
 - [Ressources for redacting personally identifiable information](https://github.com/smellslikeml/awesome-data-redaction) - resources for programmatically redacting personally identifiable information
 - [Simple ML baselines - Jupyter Notebooks](https://github.com/TatjanaChernenko/simple_ML_baselines) - simple ML baselines
+- [Huggingface - Transformer](https://github.com/TatjanaChernenko/transformers) - Huggingface - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX; various tasks
+- 
 
 ### Video Technologies
 - [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
