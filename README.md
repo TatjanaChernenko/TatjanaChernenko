@@ -189,6 +189,7 @@ Forks:
 - [text-generation-inference from Huggingface](https://github.com/huggingface/text-generation-inference#text-generation-inference) - Large Language Model Text Generation Inference. Text Generation Inference (TGI) is a toolkit for deploying and serving Large Language Models (LLMs). TGI enables high-performance text generation for the most popular open-source LLMs, including Llama, Falcon, StarCoder, BLOOM, GPT-NeoX, and more.
 - [Open-source AI cookbook](https://github.com/huggingface/cookbook/tree/main) - Huggingface - Open-source AI cookbook(Fine_tuning_Code_LLM_on_single_GPU.ipynb, etc.)
 - [Styleformer](https://github.com/PrithivirajDamodaran/Styleformer)  - A neural language style transfer framework to transfer text smoothly between styles.
+- [conv-emotion](https://github.com/declare-lab/conv-emotion) - Implementation of different architectures for emotion recognition in conversations.
 
 ### Evaluation Tasks
 - [Evaluate from Huggingface](https://github.com/huggingface/evaluate) - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized. Implementations of dozens of popular metrics: the existing metrics cover a variety of tasks spanning from NLP to Computer Vision
