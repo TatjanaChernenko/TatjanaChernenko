@@ -130,11 +130,14 @@ Forks:
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
 - [German-NLP Datasets](https://github.com/TatjanaChernenko/German-NLP)
+- [Scrapy](https://github.com/smellslikeml/scrapy) - a fast high-level web crawling & scraping framework for Python.
+- [Ressources for redacting personally identifiable information](https://github.com/smellslikeml/awesome-data-redaction) - resources for programmatically redacting personally identifiable information
+- 
 
 ### Video Technologies
 - [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
 - [Dance transfer](https://github.com/TatjanaChernenko/everybody_dance_faster) - acquire pose estimates from a participant, train a pix2pix model, transfer source dance video, and generate a dance gif; Motion transfer booth for a 1 hour everybody dance now video generation using EdgeTPU and Tensorflow 2.0
-- 
+- [Video embeddings and similarity](https://github.com/smellslikeml/image-similarity-metric-learning) - Training CNN model to generate image embeddings
 
 ### Voice Technologies
 - [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
