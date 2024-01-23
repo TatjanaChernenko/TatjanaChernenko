@@ -69,6 +69,7 @@ Forks:
 - [CTTS](https://github.com/TatjanaChernenko/ctts) - Controllable Text-to-speech system, based on Microsoft's FastSpeech2
 - [Google Sheets to Speech](https://github.com/TatjanaChernenko/sentences_to_speech) - Excel-to-speech, forked from Renoncio: A Python script for generating audio from a list of sentences in Google Sheets.
 - [StreamlitTTS](https://github.com/TatjanaChernenko/StreamlitTTS) - Streamlit app allows you to convert text to audio files using the Microsoft Edge's online text-to-speech service. 
+- [Dolla Llama: Real-Time Co-Pilot for Closing the Deal](https://github.com/TatjanaChernenko/dolla_llama) - forked from dolla_llama; power a real-time speech-to-text agent with retrieval augmented generation based on webscraped customer use-cases, implements speech-to-text (STT) and retrieval-augmented generation (RAG) to assist live sales calls.
 
 (*further projects coming soon*)
 
