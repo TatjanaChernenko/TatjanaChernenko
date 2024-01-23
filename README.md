@@ -66,6 +66,7 @@ Forks:
 - [TensorFlow Speech Recognition](https://github.com/TatjanaChernenko/AUDIO-PREOCESSING-AND-SPEECH-CLASSIFICATION) - audio processing and speech classification with Tensorflow - convolution neural networks (forked from harshel)
 - [Watson_STT_CustomModel](https://github.com/TatjanaChernenko/Watson_STT_CustomModel) - a custom speech model using IBM Watson Speech to Text; an old one (approx. 2018)
 - [Simple Speech Recognition with Python](https://github.com/TatjanaChernenko/Speech-Recognition-Speech-To-Text) - very simple setup using SpeechRecognition Python module
+- [CTTS](https://github.com/TatjanaChernenko/ctts) - Controllable Text-to-speech system, based on Microsoft's FastSpeech2
 
 (*further projects coming soon*)
 
@@ -177,6 +178,8 @@ Forks:
 - [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [Speech-to-text benchmark](https://github.com/TatjanaChernenko/speech-to-text-benchmark) - speech-to-text benchmarking framework
 - [Speech-to-text](https://techtldr.com/transcribing-speech-to-text-with-python-and-openai-api-whisper/) - with Whisper and Python, March 2023
+- [Multilingual Text-to-Speech](https://github.com/TatjanaChernenko/Multilingual_Text_to_Speech) - Tomáš Nekvinda and Ondřej Dušek, One Model, Many Languages: Meta-Learning for Multilingual Text-to-Speech, 2020, Proc. Interspeech 2020
+- [Unified Speech Tokenizer for Speech Language Models](https://github.com/TatjanaChernenko/SpeechTokenizer) - SpeechTokenizer; SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models, Xin Zhang and Dong Zhang and Shimin Li and Yaqian Zhou and Xipeng Qiu, 2023
 
 ### ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
