@@ -69,7 +69,7 @@ Forks:
 - [CTTS](https://github.com/TatjanaChernenko/ctts) - Controllable Text-to-speech system, based on Microsoft's FastSpeech2
 - [Google Sheets to Speech](https://github.com/TatjanaChernenko/sentences_to_speech) - Excel-to-speech, forked from Renoncio: A Python script for generating audio from a list of sentences in Google Sheets.
 - [StreamlitTTS](https://github.com/TatjanaChernenko/StreamlitTTS) - Streamlit app allows you to convert text to audio files using the Microsoft Edge's online text-to-speech service. 
-- [Dolla Llama: Real-Time Co-Pilot for Closing the Deal](https://github.com/TatjanaChernenko/dolla_llama) - forked from dolla_llama; power a real-time speech-to-text agent with retrieval augmented generation based on webscraped customer use-cases, implements speech-to-text (STT) and retrieval-augmented generation (RAG) to assist live sales calls.
+- [Dolla Llama: Real-Time Co-Pilot for Closing the Deal](https://github.com/TatjanaChernenko/dolla_llama) - forked from smellslikeml; power a real-time speech-to-text agent with retrieval augmented generation based on webscraped customer use-cases, implements speech-to-text (STT) and retrieval-augmented generation (RAG) to assist live sales calls.
 
 (*further projects coming soon*)
 
@@ -173,6 +173,11 @@ Forks:
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
 - [German-NLP Datasets](https://github.com/TatjanaChernenko/German-NLP)
+
+### Video Technologies
+- [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
+- [Dance transfer](https://github.com/TatjanaChernenko/everybody_dance_faster) - acquire pose estimates from a participant, train a pix2pix model, transfer source dance video, and generate a dance gif; Motion transfer booth for a 1 hour everybody dance now video generation using EdgeTPU and Tensorflow 2.0
+- 
 
 ### Voice Technologies
 - [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
