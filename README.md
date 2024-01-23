@@ -225,7 +225,8 @@ Forks:
 - [Huggingface notebooks for various(!) tasks](https://github.com/huggingface/notebooks/tree/main) - Notebooks using the Hugging Face libraries
 - [Huggingface educational resources](https://github.com/huggingface/education-toolkit) - Educational materials
 - [Huggingface: notifications](https://github.com/huggingface/knockknock) - Knock Knock: Get notified when your training ends with only two additional lines of code
-- [Huggingface: No-code raining and deployments of state-of-the-art machine learning models](https://github.com/TatjanaChernenko/autotrain-advanced) - AutoTrain is a no-code tool for training state-of-the-art models for Natural Language Processing (NLP) tasks, for Computer Vision (CV) tasks, and for Speech tasks and even for Tabular tasks. 
+- [Huggingface: No-code raining and deployments of state-of-the-art machine learning models](https://github.com/TatjanaChernenko/autotrain-advanced) - AutoTrain is a no-code tool for training state-of-the-art models for Natural Language Processing (NLP) tasks, for Computer Vision (CV) tasks, and for Speech tasks and even for Tabular tasks.
+- [Huggingface: Transformer Tutorials](https://github.com/nielsrogge/transformers-tutorials) - transformers-tutorials (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
 ### Prediction
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
