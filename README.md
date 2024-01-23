@@ -61,6 +61,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 ## Voice technologies (speech-to-text, speech-to-speech, text-to-speech)
 - [Speech-to-Text-WaveNet](https://github.com/TatjanaChernenko/speech-to-text-wavenet): End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow (forked from buriburisuri)
+- [Speech-to-text via Whisper and GPT-4]() - transcribe dictations to text using whisper, and then fixing the resulting transcriptions into usable text using gpt-4 (forked from MNoichl)
 
 (*further projects coming soon*)
 
