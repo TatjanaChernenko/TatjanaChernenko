@@ -175,7 +175,8 @@ Forks:
 - [Audio-Speech Tutorial, 2022](https://github.com/TatjanaChernenko/Audio-Speech-Tutorial) - an introduction on the topic of audio and speech processing - from basics to applications (approx. 2022)
 - [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 - [TTS](https://github.com/coqui-ai/TTS) - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [Sppech-to-text benchmark](https://github.com/TatjanaChernenko/speech-to-text-benchmark) - speech-to-text benchmarking framework
+- [Speech-to-text benchmark](https://github.com/TatjanaChernenko/speech-to-text-benchmark) - speech-to-text benchmarking framework
+- [Speech-to-text](https://techtldr.com/transcribing-speech-to-text-with-python-and-openai-api-whisper/) - with Whisper and Python, March 2023
 
 ### ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
