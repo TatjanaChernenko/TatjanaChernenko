@@ -145,14 +145,14 @@ Forks:
 - [Text Generation with GPT-2](https://huggingface.co/gpt2?text=A+long+time+ago%2C+) - Text Generation with GPT-2, Huggingface
 - [Natural Language Inference with RoBERTa](https://huggingface.co/roberta-large-mnli?text=The+dog+was+lost.+Nobody+lost+any+animal) - Natural Language Inference with RoBERTa, Huggingface
 - [Summarization with BART](https://huggingface.co/facebook/bart-large-cnn?text=The+tower+is+324+metres+%281%2C063+ft%29+tall%2C+about+the+same+height+as+an+81-storey+building%2C+and+the+tallest+structure+in+Paris.+Its+base+is+square%2C+measuring+125+metres+%28410+ft%29+on+each+side.+During+its+construction%2C+the+Eiffel+Tower+surpassed+the+Washington+Monument+to+become+the+tallest+man-made+structure+in+the+world%2C+a+title+it+held+for+41+years+until+the+Chrysler+Building+in+New+York+City+was+finished+in+1930.+It+was+the+first+structure+to+reach+a+height+of+300+metres.+Due+to+the+addition+of+a+broadcasting+aerial+at+the+top+of+the+tower+in+1957%2C+it+is+now+taller+than+the+Chrysler+Building+by+5.2+metres+%2817+ft%29.+Excluding+transmitters%2C+the+Eiffel+Tower+is+the+second+tallest+free-standing+structure+in+France+after+the+Millau+Viaduct) - Text Summarization with BART, Huggingface
-- 
 
 
-### Video Technologies
+### Image / Video Technologies
 - [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
 - [Dance transfer](https://github.com/TatjanaChernenko/everybody_dance_faster) - acquire pose estimates from a participant, train a pix2pix model, transfer source dance video, and generate a dance gif; Motion transfer booth for a 1 hour everybody dance now video generation using EdgeTPU and Tensorflow 2.0
 - [Video embeddings and similarity](https://github.com/smellslikeml/image-similarity-metric-learning) - Training CNN model to generate image embeddings
 - [Deep Fakes Detection](https://github.com/smellslikeml/Deepfake-detection) - (2019) Repository to detect deepfakes, an opensource project as part of AI Geeks effort.
+- [Diffusers from Huggingface](https://github.com/huggingface/diffusers) - Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 
 ### Voice Technologies
 - [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
