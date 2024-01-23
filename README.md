@@ -1,10 +1,48 @@
-Unraveling mysteries hidden within datasets, a relentless data detective, transforming chaos into knowledge.
+*Unraveling mysteries hidden within datasets, a relentless data detective, transforming chaos into knowledge.*
+
+# Introduction
 
 - 👋 Hi, I’m @TatjanaChernenko
 - 👀 I’m interested in Data Science, ML/DL, NLP and .
 - 📫 How to reach me: tatjana.chernenko.work@gmail.com
 - 📁 New Public Repository: This new public GitHub profile contains both old (starting from approx. 2015) and new my projects, uploaded now after years of working in a private capacity due to privacy policies of my employers. 
 - 📁 Project Uploads: All projects uploaded here are from my personal endeavors and university research. Due to privacy policies at SAP SE, where I am employed, I am unable to share work-related projects publicly. These repositories exclusively feature my private projects and are newly uploaded to this fresh GitHub profile. Thank you for your understanding.
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Research Repositories](#research-repositories)
+    - [Chertoy: Word Sense Induction](#chertoy-word-sense-induction)
+    - [Data-to-text: Natural Language Generation](#data-to-text-natural-language-generation)
+    - [Text Summarization Research](#text-summarization-research)
+    - [Reinforcement Learning Agent for Bomberman Game](#reinforcement-learning-agent-for-bomberman-game)
+    - [Speech-to-text: Transfer Learning for AST](#speech-to-text-transfer-learning-for-ast)
+    - [Data Augmentation Techniques](#data-augmentation-techniques)
+3. [Playground](#playground)
+    - [EDA: Airbnb Rental Prices in New York](#eda-airbnb-rental-prices-in-new-york)
+    - [Sentiment Analysis](#sentiment-analysis)
+    - [Recommendation Systems](#recommendation-systems)
+4. [Dialogue Systems](#dialogue-systems)
+    - [Question Answering with DistilBERT](#question-answering-with-distilbert)
+    - [Document QA with LayoutLM](#document-question-answering-with-layoutlm)
+5. [Voice Technologies](#voice-technologies)
+6. [Various ML Tasks](#various-ml-tasks)
+8. [Apps with ChatGPT and OpenAI](#apps-with-chatgpt-and-openai)
+9. [NMT](#nmt)
+10. [Inspiration](#inspiration)
+    - [Different](#different)
+        - [Data Science Resources](#data-science-resources)
+        - [NLP Resources](#nlp-resources)
+        - [Evaluation Tasks](#evaluation-tasks)
+        - [Image / Video Technologies](#image--video-technologies)
+        - [Voice Technologies](#voice-technologies)
+        - [Different ML Resources](#different-ml-resources)
+    - [Industrial Research](#industrial-research)
+        - [OpenAI](#openai)
+        - [Microsoft](#microsoft)
+        - [Meta Research](#meta-research)
+        - [AWS Samples](#aws-samples)
+        - [NVIDIA](#nvidia)
+
 
 # My Projects
 
