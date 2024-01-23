@@ -122,6 +122,7 @@ Forks:
 - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - full text in Jupyter Notebooks
 - [Data science Python notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+  [Datasets from Huggingface](https://github.com/huggingface/datasets) - collection of Huggingface datasets
   
 ### NLP Resources
 
