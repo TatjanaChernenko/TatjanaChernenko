@@ -171,6 +171,7 @@ Forks:
 - [German-NLP Datasets](https://github.com/TatjanaChernenko/German-NLP)
 - [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
 - [Audio-Speech Tutorial, 2022](https://github.com/TatjanaChernenko/Audio-Speech-Tutorial) - an introduction on the topic of audio and speech processing - from basics to applications (approx. 2022)
+- [espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 
 ### ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
