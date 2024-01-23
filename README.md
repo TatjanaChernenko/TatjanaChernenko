@@ -164,6 +164,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [awasome-nlp](https://github.com/keon/awesome-nlp) - A curated list of resources dedicated to Natural Language Processing (NLP)
 - [German-NLP Datasets](https://github.com/TatjanaChernenko/German-NLP)
+- [Speech Cognitive Service](https://github.com/LaloCo/SpeechCognitiveService_Translate) - A Jupyter Notebook that details how to use Azure's Speech Cognitive Service to Translate speech
 
 ### ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
