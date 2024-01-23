@@ -67,6 +67,7 @@ Forks:
 - [Watson_STT_CustomModel](https://github.com/TatjanaChernenko/Watson_STT_CustomModel) - a custom speech model using IBM Watson Speech to Text; an old one (approx. 2018)
 - [Simple Speech Recognition with Python](https://github.com/TatjanaChernenko/Speech-Recognition-Speech-To-Text) - very simple setup using SpeechRecognition Python module
 - [CTTS](https://github.com/TatjanaChernenko/ctts) - Controllable Text-to-speech system, based on Microsoft's FastSpeech2
+- [Google Sheets to Speech](https://github.com/TatjanaChernenko/sentences_to_speech) - Excel-to-speech, forked from Renoncio: A Python script for generating audio from a list of sentences in Google Sheets.
 
 (*further projects coming soon*)
 
