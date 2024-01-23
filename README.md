@@ -130,7 +130,6 @@ Forks:
 - [NLP state-of-the-art](https://github.com/sebastianruder/NLP-progress) - Tracking Progress in Natural Language Processing
 - [NMT Tutorial](https://github.com/ymoslem/OpenNMT-Tutorial) - Neural Machine Translation (NMT) tutorial. Data preprocessing, model training, evaluation, and deployment.
 - [NMT](https://github.com/Prompsit/mutnmt) - An educational tool to train, inspect, evaluate and translate using neural engines
-- [NMT Evaluation framework](https://github.com/Optum/nmt) - A useful framework to evaluate and compare different Machine Translation engines between each other on variety datasets.
 - [FasterNMT](https://github.com/iC-RnD/FasterNMT) - NMT incl. data preprocessing, model training, evaluation, and deployment with great performance.
 - [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) - an IPython Notebook tutorial on deep learning for natural language processing, including structure prediction.
 - [alennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
@@ -153,7 +152,9 @@ Forks:
 
 ### Evaluation Tasks
 - [Evaluate from Huggingface](https://github.com/huggingface/evaluate) - Evaluate is a library that makes evaluating and comparing models and reporting their performance easier and more standardized. Implementations of dozens of popular metrics: the existing metrics cover a variety of tasks spanning from NLP to Computer Vision
-
+- [NMT Evaluation framework](https://github.com/Optum/nmt) - A useful framework to evaluate and compare different Machine Translation engines between each other on variety datasets.
+ 
+ 
 ### Image / Video Technologies
 - [Activity detection](https://github.com/TatjanaChernenko/ActionAI) - Real-Time Spatio-Temporally Localized Activity Detection by Tracking Body Keypoints
 - [Dance transfer](https://github.com/TatjanaChernenko/everybody_dance_faster) - acquire pose estimates from a participant, train a pix2pix model, transfer source dance video, and generate a dance gif; Motion transfer booth for a 1 hour everybody dance now video generation using EdgeTPU and Tensorflow 2.0
