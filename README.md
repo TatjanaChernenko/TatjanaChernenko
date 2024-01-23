@@ -183,6 +183,7 @@ Forks:
 - [Multilingual Text-to-Speech](https://github.com/TatjanaChernenko/Multilingual_Text_to_Speech) - Tomáš Nekvinda and Ondřej Dušek, One Model, Many Languages: Meta-Learning for Multilingual Text-to-Speech, 2020, Proc. Interspeech 2020
 - [Unified Speech Tokenizer for Speech Language Models](https://github.com/TatjanaChernenko/SpeechTokenizer) - SpeechTokenizer; SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models, Xin Zhang and Dong Zhang and Shimin Li and Yaqian Zhou and Xipeng Qiu, 2023
 - [FunASR](https://github.com/alibaba-damo-academy/FunASR) - a Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models; hopes to build a bridge between academic research and industrial applications on speech recognition. By supporting the training & finetuning of the industrial-grade speech recognition model, researchers and developers can conduct research and production of speech recognition models more conveniently, and promote the development of speech recognition ecology
+- [Whisper model](https://github.com/openai/whisper) - OpenAI Whisper
 
 ### ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
