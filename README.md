@@ -97,8 +97,6 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 - [NLP examples](https://github.com/TatjanaChernenko/basic_NLP_examples) - Jupyter Notebook with data preprocessing, top words, word cloud, frequencies, AgglomerativeClustering, PCA, Sentiment analysis, Topic Detection
 - [REGEX examples](https://github.com/TatjanaChernenko/regex_examples) - simple summary of regex examples in Jupyter Notebook.
 
-## Text Categorization
-- [Categorization task with ML Algorithms for Reuters text categorization benchmark dataset](https://github.com/TatjanaChernenko/text_categorisation_ML) - LinearSVC (Linear Support Vector Classifier), Decision Tree, Random Forest, Logistic Regression,k-Nearest Neighbors (k-NN),Naive Bayes, AdaBoost, LDA (Linear Discriminant Analysis),RBM (Restricted Boltzmann Machine),MLP (Multilayer Perceptron).
 
 ## Text Categorisation Task with ML
 - [Categorization task with ML Algorithms for Reuters text categorization benchmark dataset](https://github.com/TatjanaChernenko/text_categorisation_ML) - LinearSVC (Linear Support Vector Classifier), Decision Tree, Random Forest, Logistic Regression,k-Nearest Neighbors (k-NN),Naive Bayes, AdaBoost, LDA (Linear Discriminant Analysis),RBM (Restricted Boltzmann Machine),MLP (Multilayer Perceptron).
