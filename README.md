@@ -93,26 +93,11 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 (*further projects coming soon*)
 
-## Sentiment Analysis
-
-(*to be uploaded soon*)
-
-(*coming soon*)
-
-## Recommendation Systems
-Own projects:
-
-(*to be uploaded soon*)
-
 ## Basic NLP Examples
 - [NLP examples](https://github.com/TatjanaChernenko/basic_NLP_examples) - Jupyter Notebook with data preprocessing, top words, word cloud, frequencies, AgglomerativeClustering, PCA, Sentiment analysis, Topic Detection
 
 ## Text Categorization
 - [Categorization task with ML Algorithms for Reuters text categorization benchmark dataset](https://github.com/TatjanaChernenko/text_categorisation_ML) - LinearSVC (Linear Support Vector Classifier), Decision Tree, Random Forest, Logistic Regression,k-Nearest Neighbors (k-NN),Naive Bayes, AdaBoost, LDA (Linear Discriminant Analysis),RBM (Restricted Boltzmann Machine),MLP (Multilayer Perceptron).
-
-Forks:
-- [Recommendation System with TensorFlow, approx.2020](https://github.com/TatjanaChernenko/recommenders) - TensorFlow Recommenders is a library for building recommender system models using TensorFlow. Fork from smellslikeml
-- [TF-Recommenders with Kubernetes](https://github.com/TatjanaChernenko/tf-recommenders-kubernetes) - Example of kubernetes deployment for tf-recommenders model
 
 ## Text Categorisation Task with ML
 - [Categorization task with ML Algorithms for Reuters text categorization benchmark dataset](https://github.com/TatjanaChernenko/text_categorisation_ML) - LinearSVC (Linear Support Vector Classifier), Decision Tree, Random Forest, Logistic Regression,k-Nearest Neighbors (k-NN),Naive Bayes, AdaBoost, LDA (Linear Discriminant Analysis),RBM (Restricted Boltzmann Machine),MLP (Multilayer Perceptron).
@@ -120,6 +105,21 @@ Forks:
 ## Dialogue Systems
 - [Question answering with DistilBERT](https://huggingface.co/distilbert-base-uncased-distilled-squad?text=Which+name+is+also+used+to+describe+the+Amazon+rainforest+in+English%3F&context=The+Amazon+rainforest+%28Portuguese%3A+Floresta+Amazônica+or+Amazônia%3B+Spanish%3A+Selva+Amazónica%2C+Amazonía+or+usually+Amazonia%3B+French%3A+Forêt+amazonienne%3B+Dutch%3A+Amazoneregenwoud%29%2C+also+known+in+English+as+Amazonia+or+the+Amazon+Jungle%2C+is+a+moist+broadleaf+forest+that+covers+most+of+the+Amazon+basin+of+South+America.+This+basin+encompasses+7%2C000%2C000+square+kilometres+%282%2C700%2C000+sq+mi%29%2C+of+which+5%2C500%2C000+square+kilometres+%282%2C100%2C000+sq+mi%29+are+covered+by+the+rainforest.+This+region+includes+territory+belonging+to+nine+nations.+The+majority+of+the+forest+is+contained+within+Brazil%2C+with+60%25+of+the+rainforest%2C+followed+by+Peru+with+13%25%2C+Colombia+with+10%25%2C+and+with+minor+amounts+in+Venezuela%2C+Ecuador%2C+Bolivia%2C+Guyana%2C+Suriname+and+French+Guiana.+States+or+departments+in+four+nations+contain+%22Amazonas%22+in+their+names.+The+Amazon+represents+over+half+of+the+planet%27s+remaining+rainforests%2C+and+comprises+the+largest+and+most+biodiverse+tract+of+tropical+rainforest+in+the+world%2C+with+an+estimated+390+billion+individual+trees+divided+into+16%2C000+species) - Question answering with DistilBERT, HuggingFace
 - [Document Question Answering with LayoutLM](https://huggingface.co/impira/layoutlm-document-qa) - This is a fine-tuned version of the multi-modal LayoutLM model for the task of question answering on documents. It has been fine-tuned using both the SQuAD2.0 and DocVQA datasets.
+
+## Recommendation Systems
+Own projects:
+
+(*to be uploaded soon*)
+Forks:
+- [Recommendation System with TensorFlow, approx.2020](https://github.com/TatjanaChernenko/recommenders) - TensorFlow Recommenders is a library for building recommender system models using TensorFlow. Fork from smellslikeml
+- [TF-Recommenders with Kubernetes](https://github.com/TatjanaChernenko/tf-recommenders-kubernetes) - Example of kubernetes deployment for tf-recommenders model
+
+
+## Sentiment Analysis
+
+(*to be uploaded soon*)
+
+(*coming soon*)
 
 ## Voice technologies (speech-to-text, speech-to-speech, text-to-speech)
 
