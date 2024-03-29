@@ -104,6 +104,9 @@ Own projects:
 
 (*to be uploaded soon*)
 
+## Basic NLP Examples
+- [NLP examples](https://github.com/TatjanaChernenko/basic_NLP_examples) - Jupyter Notebook with data preprocessing, top words, word cloud, frequencies, AgglomerativeClustering, PCA, Sentiment analysis, Topic Detection
+
 Forks:
 - [Recommendation System with TensorFlow, approx.2020](https://github.com/TatjanaChernenko/recommenders) - TensorFlow Recommenders is a library for building recommender system models using TensorFlow. Fork from smellslikeml
 - [TF-Recommenders with Kubernetes](https://github.com/TatjanaChernenko/tf-recommenders-kubernetes) - Example of kubernetes deployment for tf-recommenders model
