@@ -36,18 +36,30 @@
 6. **Data Augmentation Techniques for Classification**
    - GitHub: [Data Augmentation Techniques](https://github.com/TatjanaChernenko/data_augmentation)
      
-- [Playground](#playground)
+7. **[Playground]**(#playground):
+
 - [EDA (Explorative Data Analysis)](#eda-explorative-data-analysis)
+
 - [Basic NLP Examples](#basic-nlp-examples)
+
 - [Text Categorisation Task with ML](#text-categorisation-task-with-ml)
-- [Databases, SQL, noSQL, webscrapping, email notifications](#databases-sql-nosql-webscrapping-email-notifications)
+
 - [Dialogue Systems](#dialogue-systems)
+
 - [Recommendation Systems](#recommendation-systems)
+
 - [Sentiment Analysis](#sentiment-analysis)
+- 
 - [Voice technologies (speech-to-text, speech-to-speech, text-to-speech)](#voice-technologies-speech-to-text-speech-to-speech-text-to-speech)
+- 
 - [Various ML tasks](#various-ml-tasks)
+- 
 - [Apps with ChatGPT and OpenAI](#apps-with-chatgpt-and-openai)
+- 
+- [Databases, SQL, noSQL, webscrapping, email notifications](#databases-sql-nosql-webscrapping-email-notifications)
+- 
 - [NMT](#nmt)
+  
 ## Inspiration
 - [Different](#different)
   - [Prediction, Time Series, Anomaly Detection](#prediction-time-series-anomaly-detection)
