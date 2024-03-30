@@ -242,6 +242,7 @@ Forks:
 - [Huggingface: Transformer Tutorials](https://github.com/nielsrogge/transformers-tutorials) - transformers-tutorials (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
 ### Prediction
+- [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - Tutorials
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
 - [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
 - [Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM Neural Network for Time Series Prediction
