@@ -35,8 +35,11 @@
 
 6. **Data Augmentation Techniques for Classification**
    - GitHub: [Data Augmentation Techniques](https://github.com/TatjanaChernenko/data_augmentation)
+
+7. **Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis** 
+   - GitHub: [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate)
      
-7. **[My Playground (smaller projects / samples)]**(#playground):
+8. **[My Playground (smaller projects / samples)]**(#playground):
 
 - [EDA (Explorative Data Analysis)](#eda-explorative-data-analysis)
 - [Basic NLP Examples](#basic-nlp-examples)
@@ -110,6 +113,9 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 (*coming soon*)
 
 ## Playground
+
+## Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis
+- [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate) - Jupyter Notebook
 
 ## EDA (Explorative Data Analysis)
 - [Explorative Data Analysis of Aibnb rental prices in New York, 2019](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb) - Jupyter Notebook
