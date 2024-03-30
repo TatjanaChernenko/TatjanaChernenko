@@ -194,6 +194,8 @@ Forks:
 ## Different
 
 ### Prediction, Time Series, Anomaly Detection
+- [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - papers, tutorials, surveys (!)
+- [IBM Hub API Tutorial - Anomaly Detection](https://developer.ibm.com/learningpaths/get-started-anomaly-detection-api/industry-use-case/) - use IBM API for anomaly detection
 - [IBM API for Anomaly Detection](https://github.com/TatjanaChernenko/IBM_anomaly-detection-code-pattern) - playing around with the Anomaly Detection service to be made available on IBM API Hub
 - [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - Tutorials
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
@@ -202,6 +204,7 @@ Forks:
 - [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) - gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [Lime](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
 - [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
+- [Awesome-time-series](https://github.com/cure-lab/Awesome-time-series) - A comprehensive survey on the time series domains
 
 
 ### Data Science Resources
