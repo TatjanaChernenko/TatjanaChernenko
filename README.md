@@ -9,41 +9,37 @@
 - 📁 Project Uploads: All projects uploaded here are from my personal endeavors and university research. Due to privacy policies at SAP SE, where I am employed, I am unable to share work-related projects publicly. These repositories exclusively feature my private projects and are newly uploaded to this fresh GitHub profile. Thank you for your understanding.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-   My research / playground:
-3. [My Research Repositories](#research-repositories)
-    - [Chertoy: Word Sense Induction](#chertoy-word-sense-induction)
-    - [Data-to-text: Natural Language Generation](#data-to-text-natural-language-generation)
-    - [Text Summarization Research](#text-summarization-research)
-    - [Reinforcement Learning Agent for Bomberman Game](#reinforcement-learning-agent-for-bomberman-game)
-    - [Speech-to-text: Transfer Learning for AST](#speech-to-text-transfer-learning-for-ast)
-    - [Data Augmentation Techniques](#data-augmentation-techniques)
-4. [My Playground](#playground)
-    - [EDA: Airbnb Rental Prices in New York](#eda-airbnb-rental-prices-in-new-york)
-    - [Sentiment Analysis](#sentiment-analysis)
-    - [Recommendation Systems](#recommendation-systems)
-5. [My Dialogue Systems](#dialogue-systems)
-    - [Question Answering with DistilBERT](#question-answering-with-distilbert)
-    - [Document QA with LayoutLM](#document-question-answering-with-layoutlm)
-6. [My Voice Technologies](#voice-technologies)
-7. [My Various ML Tasks](#various-ml-tasks)
-8. [My Apps with ChatGPT and OpenAI](#apps-with-chatgpt-and-openai)
-9. [My NMT](#nmt)
-    Inspiration (forked code / papers  / etc.)
-11. [Inspiration](#inspiration)
-    - [Different](#different)
-        - [Data Science Resources](#data-science-resources)
-        - [NLP Resources](#nlp-resources)
-        - [Evaluation Tasks](#evaluation-tasks)
-        - [Image / Video Technologies](#image--video-technologies)
-        - [Voice Technologies](#voice-technologies)
-        - [Different ML Resources](#different-ml-resources)
-    - [Industrial Research](#industrial-research)
-        - [OpenAI](#openai)
-        - [Microsoft](#microsoft)
-        - [Meta Research](#meta-research)
-        - [AWS Samples](#aws-samples)
-        - [NVIDIA](#nvidia)
+
+## My Projects
+- [Research Repositories](#research-repositories)
+  - [NLP / ML](#nlp--ml)
+- [Playground](#playground)
+- [EDA (Explorative Data Analysis)](#eda-explorative-data-analysis)
+- [Basic NLP Examples](#basic-nlp-examples)
+- [Text Categorisation Task with ML](#text-categorisation-task-with-ml)
+- [Databases, SQL, noSQL, webscrapping, email notifications](#databases-sql-nosql-webscrapping-email-notifications)
+- [Dialogue Systems](#dialogue-systems)
+- [Recommendation Systems](#recommendation-systems)
+- [Sentiment Analysis](#sentiment-analysis)
+- [Voice technologies (speech-to-text, speech-to-speech, text-to-speech)](#voice-technologies-speech-to-text-speech-to-speech-text-to-speech)
+- [Various ML tasks](#various-ml-tasks)
+- [Apps with ChatGPT and OpenAI](#apps-with-chatgpt-and-openai)
+- [NMT](#nmt)
+## Inspiration
+- [Different](#different)
+  - [Prediction, Time Series, Anomaly Detection](#prediction-time-series-anomaly-detection)
+  - [Data Science Resources](#data-science-resources)
+  - [NLP Resources](#nlp-resources)
+  - [Evaluation Tasks](#evaluation-tasks)
+  - [Image / Video Technologies](#image--video-technologies)
+  - [Voice Technologies](#voice-technologies)
+  - [Different ML Resources](#different-ml-resources)
+  
+## Industrial research
+- [OpenAI](#openai)
+- [Microsoft](#microsoft)
+- [Meta Research](#meta-research)
+
 
 
 # My Projects
@@ -166,6 +162,17 @@ Forks:
 
 ## Different
 
+### Prediction, Time Series, Anomaly Detection
+- [IBM API for Anomaly Detection](https://github.com/TatjanaChernenko/IBM_anomaly-detection-code-pattern) - playing around with the Anomaly Detection service to be made available on IBM API Hub
+- [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - Tutorials
+- [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
+- [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
+- [Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM Neural Network for Time Series Prediction
+- [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) - gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
+- [Lime](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
+- [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
+
+
 ### Data Science Resources
 
 - [Data Science Resources - learning](https://github.com/datasciencemasters/go) - The open-source curriculum for learning to be a Data Scientist (quite basic, but nice links to books, etc.)
@@ -242,16 +249,6 @@ Forks:
 - [Huggingface: notifications](https://github.com/huggingface/knockknock) - Knock Knock: Get notified when your training ends with only two additional lines of code
 - [Huggingface: No-code raining and deployments of state-of-the-art machine learning models](https://github.com/TatjanaChernenko/autotrain-advanced) - AutoTrain is a no-code tool for training state-of-the-art models for Natural Language Processing (NLP) tasks, for Computer Vision (CV) tasks, and for Speech tasks and even for Tabular tasks.
 - [Huggingface: Transformer Tutorials](https://github.com/nielsrogge/transformers-tutorials) - transformers-tutorials (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
-
-### Prediction, Time Series, Anomaly Detection
-- [IBM API for Anomaly Detection](https://github.com/TatjanaChernenko/IBM_anomaly-detection-code-pattern) - playing around with the Anomaly Detection service to be made available on IBM API Hub
-- [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - Tutorials
-- [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
-- [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
-- [Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) - LSTM Neural Network for Time Series Prediction
-- [Stock Prediction Models](https://github.com/huseinzol05/Stock-Prediction-Models) - gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
-- [Lime](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
-- [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
 
 # Industrial research
 
