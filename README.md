@@ -10,25 +10,27 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [My Research Repositories](#research-repositories)
+   My research / playground:
+3. [My Research Repositories](#research-repositories)
     - [Chertoy: Word Sense Induction](#chertoy-word-sense-induction)
     - [Data-to-text: Natural Language Generation](#data-to-text-natural-language-generation)
     - [Text Summarization Research](#text-summarization-research)
     - [Reinforcement Learning Agent for Bomberman Game](#reinforcement-learning-agent-for-bomberman-game)
     - [Speech-to-text: Transfer Learning for AST](#speech-to-text-transfer-learning-for-ast)
     - [Data Augmentation Techniques](#data-augmentation-techniques)
-3. [My Playground](#playground)
+4. [My Playground](#playground)
     - [EDA: Airbnb Rental Prices in New York](#eda-airbnb-rental-prices-in-new-york)
     - [Sentiment Analysis](#sentiment-analysis)
     - [Recommendation Systems](#recommendation-systems)
-4. [My Dialogue Systems](#dialogue-systems)
+5. [My Dialogue Systems](#dialogue-systems)
     - [Question Answering with DistilBERT](#question-answering-with-distilbert)
     - [Document QA with LayoutLM](#document-question-answering-with-layoutlm)
-5. [My Voice Technologies](#voice-technologies)
-6. [My Various ML Tasks](#various-ml-tasks)
+6. [My Voice Technologies](#voice-technologies)
+7. [My Various ML Tasks](#various-ml-tasks)
 8. [My Apps with ChatGPT and OpenAI](#apps-with-chatgpt-and-openai)
 9. [My NMT](#nmt)
-10. [Inspiration](#inspiration)
+    Inspiration (forked code / papers  / etc.)
+11. [Inspiration](#inspiration)
     - [Different](#different)
         - [Data Science Resources](#data-science-resources)
         - [NLP Resources](#nlp-resources)
@@ -86,7 +88,7 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 (*coming soon*)
 
-## Playground (my smaller projects)
+## Playground
 
 ## EDA (Explorative Data Analysis)
 - [Explorative Data Analysis of Aibnb rental prices in New York, 2019](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb) - Jupyter Notebook
@@ -241,7 +243,8 @@ Forks:
 - [Huggingface: No-code raining and deployments of state-of-the-art machine learning models](https://github.com/TatjanaChernenko/autotrain-advanced) - AutoTrain is a no-code tool for training state-of-the-art models for Natural Language Processing (NLP) tasks, for Computer Vision (CV) tasks, and for Speech tasks and even for Tabular tasks.
 - [Huggingface: Transformer Tutorials](https://github.com/nielsrogge/transformers-tutorials) - transformers-tutorials (by @nielsrogge) - Tutorials for applying multiple models on real-world datasets.
 
-### Prediction
+### Prediction, Time Series, Anomaly Detection
+- [IBM API for Anomaly Detection](https://github.com/TatjanaChernenko/IBM_anomaly-detection-code-pattern) - playing around with the Anomaly Detection service to be made available on IBM API Hub
 - [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - Tutorials
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
 - [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
