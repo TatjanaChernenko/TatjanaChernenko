@@ -11,8 +11,31 @@
 ## Table of Contents
 
 ## My Projects
-- [Research Repositories](#research-repositories)
-  - [NLP / ML](#nlp--ml)
+- ## Research Repositories
+1. **CHERTOY: Word Sense Induction for Web Search Result Clustering**
+   - GitHub: [CHERTOY System](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system)
+
+2. **Data-to-text Generation**
+   - GitHub: [Data-to-text Generation](https://github.com/TatjanaChernenko/image_description_generation)
+
+3. **Text Summarization with LexRank**
+   - GitHub: [Text Summarization with LexRank](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu)
+
+### Game AI
+
+4. **Reinforcement Learning Agent for Bomberman**
+   - GitHub: [RL Agent for Bomberman](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game)
+
+### Speech Recognition
+
+5. **Speech-to-text with Transfer Learning**
+   - GitHub: [Speech-to-text with Transfer Learning](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning)
+
+### Data Augmentation
+
+6. **Data Augmentation Techniques for Classification**
+   - GitHub: [Data Augmentation Techniques](https://github.com/TatjanaChernenko/data_augmentation)
+     
 - [Playground](#playground)
 - [EDA (Explorative Data Analysis)](#eda-explorative-data-analysis)
 - [Basic NLP Examples](#basic-nlp-examples)
