@@ -203,6 +203,27 @@ Forks:
 
 (*coming soon*)
 
+------
+
+## My Projects
+
+| Category         | Project Title                                                                                                     | GitHub                                                                                                                         |
+|------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Research Repositories | CHERTOY: Word Sense Induction for Web Search Result Clustering                                                | [CHERTOY System](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system)                                      |
+| Research Repositories | Data-to-text Generation                                                                                          | [Data-to-text Generation](https://github.com/TatjanaChernenko/image_description_generation)                                    |
+| Research Repositories | Text Summarization with LexRank                                                                                  | [Text Summarization with LexRank](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu)                 |
+| Predictive Maintenance | LSTM for predictive maintenance of aircraft machines                                                            | [LSTM for predictive maintenance of aircraft machines](https://github.com/TatjanaChernenko/Predictive-Maintenance-with-LSTM)    |
+| Predictive Maintenance | Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis | [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate) |
+| Game AI | Reinforcement Learning Agent for Bomberman                                                                        | [RL Agent for Bomberman](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game)                    |
+| Speech Recognition | Speech-to-text with Transfer Learning                                                                            | [Speech-to-text with Transfer Learning](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning)   |
+| Data Augmentation | Data Augmentation Techniques for Classification                                                                  | [Data Augmentation Techniques](https://github.com/TatjanaChernenko/data_augmentation)                                         |
+| My Playground | EDA (Explorative Data Analysis)                                                                                  | [Explorative Data Analysis of Aibnb rental prices in New York, 2019](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb)   |
+| My Playground | Basic NLP Examples                                                                                               | [NLP examples](https://github.com/TatjanaChernenko/basic_NLP_examples)                                                        |
+| My Playground | Text Categorisation Task with ML                                                                                | [Categorization task with ML Algorithms for Reuters text categorization benchmark dataset](https://github.com/TatjanaChernenko/text_categorisation_ML)                                         |
+
+
+------
+
 # Inspiration
 
 ## Different
