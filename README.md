@@ -24,9 +24,11 @@
 ### Predictive Maintenance (RUL, failure prediction, maintaince)
 
 **LSTM for predictive maintenance of aircraft machines**
+
     - GitHub: [LSTM for predictive maintenance of aircraft machines: failure and RUL (remaining usefull life) prediction](https://github.com/TatjanaChernenko/Predictive-Maintenance-with-LSTM)
 
 **Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis** 
+
    - GitHub: [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate)
      
 
