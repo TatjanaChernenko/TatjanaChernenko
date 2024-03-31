@@ -21,25 +21,31 @@
 3. **Text Summarization with LexRank**
    - GitHub: [Text Summarization with LexRank](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu)
 
+### Predictive Maintenance (RUL, failure prediction, maintaince)
+
+**LSTM for predictive maintenance of aircraft machines**
+    - GitHub: [LSTM for predictive maintenance of aircraft machines: failure and RUL (remaining usefull life) prediction](https://github.com/TatjanaChernenko/Predictive-Maintenance-with-LSTM)
+
+**Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis** 
+   - GitHub: [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate)
+     
+
 ### Game AI
 
-4. **Reinforcement Learning Agent for Bomberman**
+**Reinforcement Learning Agent for Bomberman**
    - GitHub: [RL Agent for Bomberman](https://github.com/TatjanaChernenko/reinforcement_learning_agent_Bomberman_game)
 
 ### Speech Recognition
 
-5. **Speech-to-text with Transfer Learning**
+**Speech-to-text with Transfer Learning**
    - GitHub: [Speech-to-text with Transfer Learning](https://github.com/TatjanaChernenko/automatic_speech_translation_transfer_learning)
 
 ### Data Augmentation
 
-6. **Data Augmentation Techniques for Classification**
+**Data Augmentation Techniques for Classification**
    - GitHub: [Data Augmentation Techniques](https://github.com/TatjanaChernenko/data_augmentation)
 
-7. **Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis** 
-   - GitHub: [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate)
-     
-8. **[My Playground (smaller projects / samples)]**(#playground):
+**[My Playground (smaller projects / samples)]**(#playground):
 
 - [EDA (Explorative Data Analysis)](#eda-explorative-data-analysis)
 - [Basic NLP Examples](#basic-nlp-examples)
@@ -108,30 +114,50 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 *Key words: data augmentation, data science, ML, DL, binary and multi-class classification*
 
+## LSTM for predictive maintenance of aircraft machines 
+- [LSTM for predictive maintenance of aircraft machines: failure and RUL (remaining usefull life) prediction](https://github.com/TatjanaChernenko/Predictive-Maintenance-with-LSTM) - Predictive Maintenance: Use LSTM to predict failure (binary classification) and RUL (remaining useful life or time to failure with regression) of aircraft engines.
+
+     
+## Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis
+- [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate) - Jupyter Notebook
+
+
+## Text Categorisation Task with ML (Reuters)
+- [Categorization task with ML Algorithms for Reuters text categorization benchmark dataset](https://github.com/TatjanaChernenko/text_categorisation_ML) - LinearSVC (Linear Support Vector Classifier), Decision Tree, Random Forest, Logistic Regression,k-Nearest Neighbors (k-NN),Naive Bayes, AdaBoost, LDA (Linear Discriminant Analysis),RBM (Restricted Boltzmann Machine),MLP (Multilayer Perceptron).
+
+
 - Collection of **chatbots, dialogue systems**
 
 (*coming soon*)
 
 ## Playground
 
-## Anomaly Detection for Time Series with IBM API (SVR), K-Means clustering, statsmodels decomposition and Fourier analysis
-- [IBM API for anomaly detection, univariate data](https://github.com/TatjanaChernenko/ibm_anomaly_detection_time_series_univariate) - Jupyter Notebook
 
 ## EDA (Explorative Data Analysis)
 - [Explorative Data Analysis of Aibnb rental prices in New York, 2019](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb) - Jupyter Notebook
 
 (*further projects coming soon*)
 
+
 ## Basic NLP Examples
 - [NLP examples](https://github.com/TatjanaChernenko/basic_NLP_examples) - Jupyter Notebook with data preprocessing, top words, word cloud, frequencies, AgglomerativeClustering, PCA, Sentiment analysis, Topic Detection
 - [REGEX examples](https://github.com/TatjanaChernenko/regex_examples) - simple summary of regex examples in Jupyter Notebook.
 
 
-## Text Categorisation Task with ML
-- [Categorization task with ML Algorithms for Reuters text categorization benchmark dataset](https://github.com/TatjanaChernenko/text_categorisation_ML) - LinearSVC (Linear Support Vector Classifier), Decision Tree, Random Forest, Logistic Regression,k-Nearest Neighbors (k-NN),Naive Bayes, AdaBoost, LDA (Linear Discriminant Analysis),RBM (Restricted Boltzmann Machine),MLP (Multilayer Perceptron).
-
 ## Databases, SQL, noSQL, webscrapping, email notifications 
 - [LinkedIn webscrapping, saving data to local MongoDB and csv, filtering and updating the user via email](https://github.com/TatjanaChernenko/mongodb_webscrapping) - automatically extracting job postings from LinkedIn according to the predefined settings, storing them in a local MongoDB database and csv file, searching for relevant positions based on the keywords, and notifying the user via email (Gmail API) about relevant job opportunities.
+
+## Various ML tasks
+
+- https://github.com/TatjanaChernenko/ml_playground
+- [Regression Task: Predicting Airbnb rental prices in New York](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb) - **Regression task** to predict rental prices in New York, playground. Models used: Linear Regression, Decision Trees, NNs.
+
+(*coming soon*)
+
+## Apps with ChatGPT and OpenAI
+- [OpenAI basic app](https://github.com/TatjanaChernenko/open_ai_basic_app) - updating the basic **OpenAI simple app** to generate pet names to correspond to the OpenAI changes in code (January, 2024)
+
+(*coming soon*)
 
 
 ## Dialogue Systems
@@ -172,18 +198,6 @@ Forks:
 - [Whisper speech-to-text Telegram bot](https://github.com/TatjanaChernenko/Whisper_Speech-To-Text_Telegram_Bot) - forked from loyal-pelmen; Speech-to-Text Telegram bot
 
 (*further projects coming soon*)
-
-## Various ML tasks
-
-- https://github.com/TatjanaChernenko/ml_playground
-- [Regression Task: Predicting Airbnb rental prices in New York](https://github.com/TatjanaChernenko/ml_playground/blob/main/Explorative%20Data%20Analysis%20-%20AirBnb%20Prices%20in%20New%20York.ipynb) - **Regression task** to predict rental prices in New York, playground. Models used: Linear Regression, Decision Trees, NNs.
-
-(*coming soon*)
-
-## Apps with ChatGPT and OpenAI
-- [OpenAI basic app](https://github.com/TatjanaChernenko/open_ai_basic_app) - updating the basic **OpenAI simple app** to generate pet names to correspond to the OpenAI changes in code (January, 2024)
-
-(*coming soon*)
 
 ## NMT
 
