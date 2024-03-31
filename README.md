@@ -199,6 +199,7 @@ Forks:
 - [IBM API for Anomaly Detection](https://github.com/TatjanaChernenko/IBM_anomaly-detection-code-pattern) - playing around with the Anomaly Detection service to be made available on IBM API Hub
 - [AWS Forecast - end-to-end guide](https://github.com/aws-samples/amazon-forecast-samples) - Prediction with AWS
 - [Amazon Monitron Guidance for Predictive Maintenance](https://aws.amazon.com/ru/solutions/guidance/predictive-maintenance-with-amazon-monitron/) - predictive maintenance management in industrial environments using Amazon Monitron and other AWS services.
+- [Azure Predictive Maintenance Template](https://gallery.azure.ai/Collection/Predictive-Maintenance-Template-3) - Regression: predict the Remaining Useful Life (RUL), or Time to Failure (TTF); binary classification: predict if an asset will fail within certain time frame (e.g. days). Multi-class classification: Predict if an asset will fail in different time windows: E.g., fails in window [1, w0] days; fails in the window [w0+1,w1] days; not fail within w1 days.
 - [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - Tutorials
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
 - [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
