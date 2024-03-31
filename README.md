@@ -197,6 +197,7 @@ Forks:
 - [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - papers, tutorials, surveys (!)
 - [IBM Hub API Tutorial - Anomaly Detection](https://developer.ibm.com/learningpaths/get-started-anomaly-detection-api/industry-use-case/) - use IBM API for anomaly detection
 - [IBM API for Anomaly Detection](https://github.com/TatjanaChernenko/IBM_anomaly-detection-code-pattern) - playing around with the Anomaly Detection service to be made available on IBM API Hub
+- [Amazon Monitron Guidance for Predictive Maintenance](https://aws.amazon.com/ru/solutions/guidance/predictive-maintenance-with-amazon-monitron/) - predictive maintenance management in industrial environments using Amazon Monitron and other AWS services.
 - [AI for Time Series](https://github.com/DAMO-DI-ML/AI-for-Time-Series-Papers-Tutorials-Surveys) - Tutorials
 - [PredictionIO](https://github.com/apache/predictionio) - Apache; a machine learning server for developers and ML engineers.
 - [Conforal Prediction Tutorials](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
