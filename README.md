@@ -205,6 +205,7 @@ Forks:
 - [Lime](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
 - [Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series) - TensorFlow Tutorial for Time Series Prediction
 - [Awesome-time-series](https://github.com/cure-lab/Awesome-time-series) - A comprehensive survey on the time series domains
+- [Predictive Maintenance Datasets](https://github.com/TatjanaChernenko/predictive-maintenance-datasets) - Datasets for predictive maintenance
 
 
 ### Data Science Resources
