@@ -273,6 +273,7 @@ Forks:
 - [Datasets from Huggingface](https://github.com/huggingface/datasets) - collection of Huggingface datasets
 - [Huggingface - web API for visualizing and exploring of datasets](https://github.com/huggingface/datasets-server) - Lightweight web API for visualizing and exploring all types of datasets - computer vision, speech, text, and tabular - stored on the Hugging Face Hub
 - [Huggingface - analyse datasets](https://github.com/TatjanaChernenko/data-measurements-tool) - EDA from Huggingface (Developing tools to automatically analyze datasets)
+- [Jupyter Notebooks for Big Data - with Spark and Hadoop](https://medium.com/@techlatest.net/using-jupyter-notebook-with-big-data-a-guide-on-how-to-use-jupyter-notebook-with-big-data-f473af87185b) - A guide on how to use Jupyter Notebook with big data frameworks like Apache Spark and Hadoop, including recommended libraries and tools.
   
 ### NLP Resources
 
