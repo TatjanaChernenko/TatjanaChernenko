@@ -179,7 +179,9 @@ Forks:
 
 (*to be uploaded soon*)
 
-(*coming soon*)
+Forks:
+- [Tweet Analysis](https://github.com/TatjanaChernenko/ChatGPT-Tweet-Analysis) - Analyzing ChatGPT-related tweets to observe technology interest trends over time
+- 
 
 ## Voice technologies (speech-to-text, speech-to-speech, text-to-speech)
 
@@ -215,6 +217,22 @@ It can be used with a wake word, and it can also use text to speech to repeat Ch
 ## NMT
 
 (*coming soon*)
+
+
+## Computer Vision
+
+Own projects:
+(*to be uploaded soon*)
+
+Forks/Inspiration:
+- [Laundry Sorting with a robotic arm](https://github.com/Jdka1/Laundry-Sorting) - Sorting laundry autonomously with a robotic arm and Computer Vision
+- []() -
+- []() -
+
+## Other
+
+- [AutoXlicker](https://github.com/TatjanaChernenko/AutoClicker) - A lightweight and customizable autoclicker tool for automating repetitive clicking tasks.
+- [Hand Gesture Computer Interface]((https://github.com/TatjanaChernenko/Hand-Gesture-Computer-Interface) - Software that allows you to interact with your computer through hand gestures. 
 
 ------
 
