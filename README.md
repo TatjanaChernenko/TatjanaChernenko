@@ -156,13 +156,15 @@ Report - [link](https://github.com/TatjanaChernenko/automatic_speech_translation
 
 ## Apps with ChatGPT and OpenAI
 - [OpenAI basic app](https://github.com/TatjanaChernenko/open_ai_basic_app) - updating the basic **OpenAI simple app** to generate pet names to correspond to the OpenAI changes in code (January, 2024)
-
+- [fork: GPT Chatbot - customizable]https://github.com/TatjanaChernenko/customizable-gpt-chatbot) - A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.
+  
 (*coming soon*)
 
 
 ## Dialogue Systems
 - [Question answering with DistilBERT](https://huggingface.co/distilbert-base-uncased-distilled-squad?text=Which+name+is+also+used+to+describe+the+Amazon+rainforest+in+English%3F&context=The+Amazon+rainforest+%28Portuguese%3A+Floresta+Amazônica+or+Amazônia%3B+Spanish%3A+Selva+Amazónica%2C+Amazonía+or+usually+Amazonia%3B+French%3A+Forêt+amazonienne%3B+Dutch%3A+Amazoneregenwoud%29%2C+also+known+in+English+as+Amazonia+or+the+Amazon+Jungle%2C+is+a+moist+broadleaf+forest+that+covers+most+of+the+Amazon+basin+of+South+America.+This+basin+encompasses+7%2C000%2C000+square+kilometres+%282%2C700%2C000+sq+mi%29%2C+of+which+5%2C500%2C000+square+kilometres+%282%2C100%2C000+sq+mi%29+are+covered+by+the+rainforest.+This+region+includes+territory+belonging+to+nine+nations.+The+majority+of+the+forest+is+contained+within+Brazil%2C+with+60%25+of+the+rainforest%2C+followed+by+Peru+with+13%25%2C+Colombia+with+10%25%2C+and+with+minor+amounts+in+Venezuela%2C+Ecuador%2C+Bolivia%2C+Guyana%2C+Suriname+and+French+Guiana.+States+or+departments+in+four+nations+contain+%22Amazonas%22+in+their+names.+The+Amazon+represents+over+half+of+the+planet%27s+remaining+rainforests%2C+and+comprises+the+largest+and+most+biodiverse+tract+of+tropical+rainforest+in+the+world%2C+with+an+estimated+390+billion+individual+trees+divided+into+16%2C000+species) - Question answering with DistilBERT, HuggingFace
 - [Document Question Answering with LayoutLM](https://huggingface.co/impira/layoutlm-document-qa) - This is a fine-tuned version of the multi-modal LayoutLM model for the task of question answering on documents. It has been fine-tuned using both the SQuAD2.0 and DocVQA datasets.
+
 
 ## Recommendation Systems
 Own projects:
@@ -185,6 +187,12 @@ Own projects:
 (*to be uploaded soon*)
 
 Forks:
+- [Whisper OpenAI](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [WhisperX Timestamps (& Diarization)](https://github.com/m-bain/whisperX) - Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+- [Whisper real-time](https://github.com/TatjanaChernenko/whisper-stream) - real-time speech-to-text conversion with Whisper
+- [SpeechGPT](https://github.com/TatjanaChernenko/SpeechGPT) - detects microphone input and coverts it to text using Google's Speech Recognition API. It then opens ChatGPT and inputs the recognized text using selenium.
+It can be used with a wake word, and it can also use text to speech to repeat ChatGPT's answer to the query. 
+- [Speaker Diarization Whisper](https://github.com/MahmoudAshraf97/whisper-diarization) - Whisper with with Speaker Diarization based on OpenAI Whisper
 - [Speech-to-Text-WaveNet](https://github.com/TatjanaChernenko/speech-to-text-wavenet): End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow (forked from buriburisuri)
 - [Speech-to-text via Whisper and GPT-4](https://github.com/TatjanaChernenko/speech_to_text_with_whisper_to_GPT) - transcribe dictations to text using whisper, and then fixing the resulting transcriptions into usable text using gpt-4 (forked from MNoichl)
 - [TensorFlow Speech Recognition](https://github.com/TatjanaChernenko/AUDIO-PREOCESSING-AND-SPEECH-CLASSIFICATION) - audio processing and speech classification with Tensorflow - convolution neural networks (forked from harshel)
@@ -196,7 +204,10 @@ Forks:
 - [Dolla Llama: Real-Time Co-Pilot for Closing the Deal](https://github.com/TatjanaChernenko/dolla_llama) - forked from smellslikeml; power a real-time speech-to-text agent with retrieval augmented generation based on webscraped customer use-cases, implements speech-to-text (STT) and retrieval-augmented generation (RAG) to assist live sales calls.
 - [Text-to-Speech on AWS](https://github.com/TatjanaChernenko/awstexttospeech) - forked from codets1989; using AWS Lambda and Polly converting text to speech and creating a automated pipeline
 - [Whisper speech-to-text Telegram bot](https://github.com/TatjanaChernenko/Whisper_Speech-To-Text_Telegram_Bot) - forked from loyal-pelmen; Speech-to-Text Telegram bot
-
+- [DeepSpeech on devices](https://github.com/TatjanaChernenko/DeepSpeech_for_devices) - embedded (offline, on-device) speech-to-text engine which can run in real time ranging from a Raspberry Pi 4 to high power GPU servers
+- [Bash Whisper - using a Digital Voice Recorder (DVR)](https://github.com/TatjanaChernenko/bash-whisper-transcription) - Bash function to ease the transcription of audio files with OpenAI's whisper.
+- [SpeechBrain](https://github.com/TatjanaChernenko/speechbrain) - an open-source PyTorch toolkit that accelerates Conversational AI development; spans speech recognition, speaker recognition, speech enhancement, speech separation, language modeling, dialogue, and beyond. Over 200 competitive training recipes on more than 40 datasets supporting 20 speech and text processing tasks. Supports both training from scratch and fine-tuning pretrained models such as Whisper, Wav2Vec2, WavLM, Hubert, GPT2, Llama2, and beyond. The models on HuggingFace can be easily plugged in and fine-tuned.
+ 
 (*further projects coming soon*)
 
 ## NMT
