@@ -362,6 +362,7 @@ Forks/Inspiration:
 - [Whisper model](https://github.com/openai/whisper) - OpenAI Whisper
 - [Wenet](https://github.com/wenet-e2e/wenet) - Production First and Production Ready End-to-End Speech Recognition Toolkit
 - [Distilled variant of Whisper ](https://github.com/TatjanaChernenko/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
+- [Fine-tune Whisper](https://huggingface.co/blog/fine-tune-whisper) -Fine-Tune Whisper For Multilingual ASR with Transformers
 
 ### Different ML Resources
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - (not really up-to-date, but good) Papers & tech blogs by companies sharing their work on data science & machine learning in production.
