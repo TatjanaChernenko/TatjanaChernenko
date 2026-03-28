@@ -16,6 +16,20 @@
 
 ## Table of Contents
 
+## Publications:
+- **LREC 2026: A Dataset for Evaluating ASR on Specialized Vocabulary**
+- **US Patent: Semantic domain assignment referencing governance domains and term databases**
+T Chernenko, B Schork, M DANEI
+US Patent 12,518,105		2026
+- **US Patent: Adaptive Fidelity Pipeline for Minimizing Hallucinations and Skipped Content in Speech-to-Text Systems**
+US Patent App. 250089US01		2025
+- **US Patent: System and method performing terminology disambiguation**
+T Chernenko, B Schork, M DANEI
+US Patent 12,386,820		2025
+- **US Patent: Detection of abbreviation and mapping to full original term**
+T Chernenko, A SNITKO, J Scharnbacher, M Vasiltschenko
+US Patent 12,067,370		2024
+
 ## Old Projects (~2017-2018):
 - ## Research Repositories
 1. **CHERTOY: Word Sense Induction for Web Search Result Clustering**
