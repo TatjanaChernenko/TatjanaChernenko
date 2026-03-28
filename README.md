@@ -20,14 +20,14 @@
 
 ## Selected Publications and Patents
 
-- **LREC 2026:** *A Dataset for Evaluating ASR on Specialized Vocabulary*
-- **US Patent:** *Semantic Domain Assignment Referencing Governance Domains and Term Databases*  
+- **LREC 2026:** [A Dataset for Evaluating ASR on Specialized Vocabulary](https://lrec2026.info/list-of-accepted-papers/)*
+- **US Patent:** *[Semantic Domain Assignment Referencing Governance Domains and Term Databases](https://patentsgazette.uspto.gov/week01/OG/html/1542-1/US12518105-20260106.html)*  
   T. Chernenko, B. Schork, M. DANEI — US Patent 12,518,105 (2026)
-- **US Patent Application:** *Adaptive Fidelity Pipeline for Minimizing Hallucinations and Skipped Content in Speech-to-Text Systems*  
+- **US Patent Application:** *[Adaptive Fidelity Pipeline for Minimizing Hallucinations and Skipped Content in Speech-to-Text Systems](https://patentsgazette.uspto.gov/week01/OG/html/1542-1/US12518105-20260106.html)*  
   US Patent App. 250089US01 (2025)
-- **US Patent:** *System and Method Performing Terminology Disambiguation*  
+- **US Patent:** *[System and Method Performing Terminology Disambiguation](https://patents.google.com/patent/US20240176778A1/en)*  
   T. Chernenko, B. Schork, M. DANEI — US Patent 12,386,820 (2025)
-- **US Patent:** *Detection of Abbreviation and Mapping to Full Original Term*  
+- **US Patent:** *[Detection of Abbreviation and Mapping to Full Original Term](https://patents.justia.com/patent/12067370)*  
   T. Chernenko, A. Snitko, J. Scharnbacher, M. Vasiltschenko — US Patent 12,067,370 (2024)
 
 ## Selected Earlier Research Repositories (~2017)
