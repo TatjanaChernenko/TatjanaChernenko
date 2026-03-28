@@ -3,14 +3,20 @@
 # Introduction
 
 - 👋 Hi, I’m @TatjanaChernenko
-- 👀 I’m interested in Data Science, ML/DL, NLP and .
 - 📫 How to reach me: tatjana.chernenko.work@gmail.com
+- Applied AI Scientist and AI Architect working across enterprise speech AI, multilingual AI, applied NLP, and AI system design. My public GitHub contains selected personal, academic, and exploratory technical artifacts; most recent enterprise work in speech AI, evaluation, data products, and applied research is not public due to confidentiality and employer constraints.
+- Focus Areas:
+-    Speech AI and multilingual AI
+-    Apllied NLP and terminology intelligence
+-    Evaluation, benchmarking, and AI quality
+-    Enterprise AI systems and data architecture
+-    Knowledge-enhanced and retrieval-based AI
 - 📁 New Public Repository: This new public GitHub profile contains both old (starting from approx. 2015) and new my projects, uploaded now after years of working in a private capacity due to privacy policies of my employers. 
 - 📁 Project Uploads: All projects uploaded here are from my personal endeavors and university research. Due to privacy policies at SAP SE, where I am employed, I am unable to share work-related projects publicly. These repositories exclusively feature my private projects and are newly uploaded to this fresh GitHub profile. Thank you for your understanding.
 
 ## Table of Contents
 
-## My Projects
+## Old Projects (~2017-2018):
 - ## Research Repositories
 1. **CHERTOY: Word Sense Induction for Web Search Result Clustering**
    - GitHub: [CHERTOY System](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system)
@@ -76,7 +82,7 @@
 
 
 
-# My Projects
+# My Old Projects (~2017-2018)
 
 ## Research Repositories
 ### NLP / ML
