@@ -50,7 +50,7 @@ Practitioner writing on AI evaluation, benchmarking, and enterprise speech AI â€
 
 ### Research / Academic Work
 
-1. **CHERTOY: Word Sense Induction for Web Search Result Clustering**
+1.  **CHERTOY: Word Sense Induction for Web Search Result Clustering**
    Academic NLP research project at the Institute for Computational Linguistics, Heidelberg University, based on the SemEval-2013 WSI task. Built an unsupervised word sense induction pipeline for clustering ambiguous web-search snippets into semantically coherent subtopic groups using sense2vec word representations, vector-mixture bag-of-words snippet embeddings, and MeanShift clustering; evaluated 40 controlled experimental variants across preprocessing, embedding models, compositional representations, and clustering algorithms, improving pairwise clustering quality over baseline.
    GitHub: [CHERTOY System](https://github.com/TatjanaChernenko/word_sense_induction_CHERTOY_system)
 
@@ -61,6 +61,9 @@ Practitioner writing on AI evaluation, benchmarking, and enterprise speech AI â€
 3. **LexRank-based Text Summarization with Semantic Similarity Enhancements**
    Research project on extractive summarization extending LexRank with semantic-similarity features to improve sentence ranking and summary quality in longer documents.
    GitHub: [Text Summarization with LexRank](https://github.com/TatjanaChernenko/text_summarization_LexRank_modified_ecnu)
+
+4.  **Dialogue Management: Improving Task-Oriented Conversational Agents with Deep Learning** Thesis in Computational Linguistics at Heidelberg University,Institute for Computational Linguistics supervised by Prof. Dr. Riezler and Dr. Vivi Nastase. Conversational AI-powered interfaces have become a top priority for many companies. Automated solutions save money, improve the quality of services and support the workers in their regular tasks. Technical software support is one of the industry fields that can benefit from usage of intelligent agents. AI systems with very specific knowledge in a narrow domain can automate regular tasks and support the workers by resolving technical issues. This thesis presents a development of such an AI-powered interface SmartSupport that combines strengths of the retrieval and neural models. SmartSupport can be used as an independent system or be integrated into a conversational agent as an
+underlying Question Answering System, improving its performance in a semantically restricted conversational space of technical software issues.
 
 ## Archived Additional Technical Repositories
 
