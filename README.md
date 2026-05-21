@@ -9,24 +9,14 @@
 
 ## Focus Areas
 
-- Speech AI, multilingual AI, and language technologies
+- Speech AI (ASR, Speech Translation, TTS), multilingual AI, and language technologies
+- Evaluation, benchmarking, and reliability-oriented AI quality systems
+- Agentic AI
 - Applied NLP, terminology intelligence, and specialised-vocabulary handling
 - LLM systems, GenAI
 - Retrieval-augmented generation (RAG)
-- Agentic AI workflows
 - Knowledge graphs, knowledge-enhanced AI, and workflow automation
-- Evaluation, benchmarking, and reliability-oriented AI quality systems
 - Enterprise AI architecture, data foundations, and governance-aware AI execution
-
-## Articles
-
-Practitioner writing on AI evaluation, benchmarking, and enterprise speech AI — published on Hugging Face.
-
-- **[Representativeness Before Metrics: Rethinking AI Evaluation for Deployment](https://github.com/TatjanaChernenko/TatjanaChernenko.github.io/blob/main/representativeness_before_metrics.md) [HuggingFace link pending]**
-  What enterprise speech AI evaluation reveals about benchmark reliability — and why the lessons reach further than speech. Argues that weak benchmark representativeness, not metric design, is the primary bottleneck between benchmark success and deployment confidence.
-
-- **[When Benchmarks Saturate: Ecological Validity in AI Evaluation] [HuggingFace link pending]**
-  Why discriminative power, behavioral realism, and decision relevance matter more as systems improve. Examines how saturation and weak ecological validity compound each other — and what evaluation surfaces need to do to remain informative.
 
 ## Selected Publications and Patents
 
@@ -46,6 +36,16 @@ Practitioner writing on AI evaluation, benchmarking, and enterprise speech AI �
 - **US Patent:** *[Detection of Abbreviation and Mapping to Full Original Term](https://patents.justia.com/patent/12067370)*
   T. Chernenko, A. Snitko, J. Scharnbacher, M. Vasiltschenko — US Patent 12,067,370 (2024)
 
+## Articles
+
+Practitioner writing on AI evaluation, benchmarking, and enterprise speech AI — published on Hugging Face.
+
+- **[Representativeness Before Metrics: Rethinking AI Evaluation for Deployment](https://github.com/TatjanaChernenko/TatjanaChernenko.github.io/blob/main/representativeness_before_metrics.md) [HuggingFace link pending]**
+  What enterprise speech AI evaluation reveals about benchmark reliability — and why the lessons reach further than speech. Argues that weak benchmark representativeness, not metric design, is the primary bottleneck between benchmark success and deployment confidence.
+
+- **[When Benchmarks Saturate: Ecological Validity in AI Evaluation] [HuggingFace link pending]**
+  Why discriminative power, behavioral realism, and decision relevance matter more as systems improve. Examines how saturation and weak ecological validity compound each other — and what evaluation surfaces need to do to remain informative.
+  
 ## Selected Earlier Research Repositories (~2017)
 
 ### Research / Academic Work
