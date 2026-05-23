@@ -4,6 +4,7 @@
 
 - 👋 Hi, I'm Tatjana Chernenko
 - 📫 Contact: tatjana.chernenko.work@gmail.com
+- My website with CV & Projects: www.tatjanachernenko.com 
 - Applied AI Scientist and AI Architect with work spanning enterprise speech AI, multilingual AI, applied NLP, LLM systems, agentic AI, RAG, knowledge graphs, evaluation and benchmarking systems, terminology intelligence, and AI-ready data architecture.
 - My public GitHub contains a selective set of personal, academic, and research-oriented technical artifacts. Most recent enterprise work is not public due to confidentiality and employer constraints.
 
