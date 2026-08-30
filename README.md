@@ -18,8 +18,13 @@
 - Retrieval-augmented generation (RAG)
 - Knowledge graphs, knowledge-enhanced AI, and workflow automation
 - Enterprise AI architecture, data foundations, and governance-aware AI execution
+- Quantum and Quantum-inspired ML
+- AGI
 
 ## Selected Publications and Patents
+
+- **Unknown-World AGI Benchmark: Structural Generalization in Interactive Environments** (2026) *Independent Research*
+Designed and implemented a 30-factor interactive benchmark for evaluating how AI agents infer causal structure, hidden state, goals, transfer relations, model changes, and information value in unfamiliar worlds. Built matched factor-on/factor-off assays and structurally distinct holdouts with shortcut-resistant validation; the current V2 core completed a 23,040-world global scientific-integration audit. #AGI_evaluation #Interactive_Agents #Structural_Generalization #Benchmark_Design #Causal_Reasoning
 
 - **ECIR 2027 (in Prep.) + Patent (Pending)** *Quantum-Inspired Density-Operator Mixtures for Context-Aware Short-Text Disambiguation in Translation-Memory Re-Ranking* (Tatjana Chernenko)
 Metadata-conditioned density-operator mixtures in which text, domain, and text-type evidence is represented by learned complex rank-1 projectors and combined through convex conditioning. Trace-overlap scoring evaluates all pairwise cross-component similarities (weighted squared overlaps) for context-aware re-ranking. Reduced baseline errors by up to 74.5% using a heterogeneous model agreement policy.
