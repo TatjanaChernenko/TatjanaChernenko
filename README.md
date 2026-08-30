@@ -23,7 +23,7 @@
 
 ## Selected Publications and Patents
 
-- **Unknown-World AGI Benchmark: Structural Generalization in Interactive Environments** (2026) *Independent Research*
+- [**Unknown-World AGI Benchmark: Structural Generalization in Interactive Environments**](https://github.com/TatjanaChernenko/unknown-world-agi-benchmark/blob/main/README.md) (2026, work in progress) *Independent Research*
 Designed and implemented a 30-factor interactive benchmark for evaluating how AI agents infer causal structure, hidden state, goals, transfer relations, model changes, and information value in unfamiliar worlds. Built matched factor-on/factor-off assays and structurally distinct holdouts with shortcut-resistant validation; the current V2 core completed a 23,040-world global scientific-integration audit. #AGI_evaluation #Interactive_Agents #Structural_Generalization #Benchmark_Design #Causal_Reasoning
 
 - **ECIR 2027 (in Prep.) + Patent (Pending)** *Quantum-Inspired Density-Operator Mixtures for Context-Aware Short-Text Disambiguation in Translation-Memory Re-Ranking* (Tatjana Chernenko)
